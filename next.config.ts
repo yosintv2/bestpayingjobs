@@ -1,9 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  ...(process.env.GITHUB_PAGES === "true" ? { output: "export" } : {}),
   images: { unoptimized: true },
   trailingSlash: true,
   async rewrites() {
+    if (process.env.GITHUB_PAGES === "true") return [];
     return [
       {
         source: "/best-paying-jobs-in-:slug",

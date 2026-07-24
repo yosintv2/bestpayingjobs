@@ -24,7 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm clean-install
-      - run: npm run build:github-pages
+      - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

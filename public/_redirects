@@ -3,4 +3,5 @@
 /category/* /jobs/:splat 200
 /salary-in-* /salary-in/:splat 200
 /part-time-jobs-in-* /part-time-jobs-in/:splat 200
+/api/jobs/* /api/jobs/:splat.json 200
 https://bestpayingjobs.net/* https://www.bestpayingjobs.net/:splat 301

@@ -5,6 +5,8 @@ import calculators from "@/data/calculators.json";
 import blogPosts from "@/data/blog-posts.json";
 import salaryLetters from "@/data/salary-letters.json";
 
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = "https://www.bestpayingjobs.net";
   const countries = getCountries();

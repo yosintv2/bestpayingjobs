@@ -1,0 +1,5530 @@
+[
+  {
+    "code": "af",
+    "countrySlug": "afghanistan",
+    "countryName": "Afghanistan",
+    "slug": "afghanistan-capital",
+    "name": "Kabul",
+    "type": "capital"
+  },
+  {
+    "code": "af",
+    "countrySlug": "afghanistan",
+    "countryName": "Afghanistan",
+    "slug": "herat-af",
+    "name": "Herat",
+    "type": "major"
+  },
+  {
+    "code": "af",
+    "countrySlug": "afghanistan",
+    "countryName": "Afghanistan",
+    "slug": "kandahar-af",
+    "name": "Kandahar",
+    "type": "major"
+  },
+  {
+    "code": "af",
+    "countrySlug": "afghanistan",
+    "countryName": "Afghanistan",
+    "slug": "mazar-i-sharif-af",
+    "name": "Mazar-i-Sharif",
+    "type": "major"
+  },
+  {
+    "code": "al",
+    "countrySlug": "albania",
+    "countryName": "Albania",
+    "slug": "albania-capital",
+    "name": "Tirana",
+    "type": "capital"
+  },
+  {
+    "code": "al",
+    "countrySlug": "albania",
+    "countryName": "Albania",
+    "slug": "durr-s-al",
+    "name": "Durrës",
+    "type": "major"
+  },
+  {
+    "code": "al",
+    "countrySlug": "albania",
+    "countryName": "Albania",
+    "slug": "vlor-al",
+    "name": "Vlorë",
+    "type": "major"
+  },
+  {
+    "code": "dz",
+    "countrySlug": "algeria",
+    "countryName": "Algeria",
+    "slug": "algeria-capital",
+    "name": "Algiers",
+    "type": "capital"
+  },
+  {
+    "code": "dz",
+    "countrySlug": "algeria",
+    "countryName": "Algeria",
+    "slug": "oran-dz",
+    "name": "Oran",
+    "type": "major"
+  },
+  {
+    "code": "dz",
+    "countrySlug": "algeria",
+    "countryName": "Algeria",
+    "slug": "constantine-dz",
+    "name": "Constantine",
+    "type": "major"
+  },
+  {
+    "code": "dz",
+    "countrySlug": "algeria",
+    "countryName": "Algeria",
+    "slug": "annaba-dz",
+    "name": "Annaba",
+    "type": "major"
+  },
+  {
+    "code": "ad",
+    "countrySlug": "andorra",
+    "countryName": "Andorra",
+    "slug": "andorra-capital",
+    "name": "Andorra la Vella",
+    "type": "capital"
+  },
+  {
+    "code": "ad",
+    "countrySlug": "andorra",
+    "countryName": "Andorra",
+    "slug": "escaldes-engordany-ad",
+    "name": "Escaldes-Engordany",
+    "type": "major"
+  },
+  {
+    "code": "ao",
+    "countrySlug": "angola",
+    "countryName": "Angola",
+    "slug": "angola-capital",
+    "name": "Luanda",
+    "type": "capital"
+  },
+  {
+    "code": "ao",
+    "countrySlug": "angola",
+    "countryName": "Angola",
+    "slug": "huambo-ao",
+    "name": "Huambo",
+    "type": "major"
+  },
+  {
+    "code": "ao",
+    "countrySlug": "angola",
+    "countryName": "Angola",
+    "slug": "benguela-ao",
+    "name": "Benguela",
+    "type": "major"
+  },
+  {
+    "code": "ag",
+    "countrySlug": "antigua-and-barbuda",
+    "countryName": "Antigua and Barbuda",
+    "slug": "antigua-and-barbuda-capital",
+    "name": "Saint John's",
+    "type": "capital"
+  },
+  {
+    "code": "ar",
+    "countrySlug": "argentina",
+    "countryName": "Argentina",
+    "slug": "argentina-capital",
+    "name": "Buenos Aires",
+    "type": "capital"
+  },
+  {
+    "code": "ar",
+    "countrySlug": "argentina",
+    "countryName": "Argentina",
+    "slug": "c-rdoba-ar",
+    "name": "Córdoba",
+    "type": "major"
+  },
+  {
+    "code": "ar",
+    "countrySlug": "argentina",
+    "countryName": "Argentina",
+    "slug": "rosario-ar",
+    "name": "Rosario",
+    "type": "major"
+  },
+  {
+    "code": "ar",
+    "countrySlug": "argentina",
+    "countryName": "Argentina",
+    "slug": "mendoza-ar",
+    "name": "Mendoza",
+    "type": "major"
+  },
+  {
+    "code": "ar",
+    "countrySlug": "argentina",
+    "countryName": "Argentina",
+    "slug": "la-plata-ar",
+    "name": "La Plata",
+    "type": "major"
+  },
+  {
+    "code": "am",
+    "countrySlug": "armenia",
+    "countryName": "Armenia",
+    "slug": "armenia-capital",
+    "name": "Yerevan",
+    "type": "capital"
+  },
+  {
+    "code": "am",
+    "countrySlug": "armenia",
+    "countryName": "Armenia",
+    "slug": "gyumri-am",
+    "name": "Gyumri",
+    "type": "major"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "australia-capital",
+    "name": "Canberra",
+    "type": "capital"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "sydney-au",
+    "name": "Sydney",
+    "type": "major"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "melbourne-au",
+    "name": "Melbourne",
+    "type": "major"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "brisbane-au",
+    "name": "Brisbane",
+    "type": "major"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "perth-au",
+    "name": "Perth",
+    "type": "major"
+  },
+  {
+    "code": "au",
+    "countrySlug": "australia",
+    "countryName": "Australia",
+    "slug": "adelaide-au",
+    "name": "Adelaide",
+    "type": "major"
+  },
+  {
+    "code": "at",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "slug": "austria-capital",
+    "name": "Vienna",
+    "type": "capital"
+  },
+  {
+    "code": "at",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "slug": "graz-at",
+    "name": "Graz",
+    "type": "major"
+  },
+  {
+    "code": "at",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "slug": "linz-at",
+    "name": "Linz",
+    "type": "major"
+  },
+  {
+    "code": "at",
+    "countrySlug": "austria",
+    "countryName": "Austria",
+    "slug": "salzburg-at",
+    "name": "Salzburg",
+    "type": "major"
+  },
+  {
+    "code": "az",
+    "countrySlug": "azerbaijan",
+    "countryName": "Azerbaijan",
+    "slug": "azerbaijan-capital",
+    "name": "Baku",
+    "type": "capital"
+  },
+  {
+    "code": "az",
+    "countrySlug": "azerbaijan",
+    "countryName": "Azerbaijan",
+    "slug": "ganja-az",
+    "name": "Ganja",
+    "type": "major"
+  },
+  {
+    "code": "az",
+    "countrySlug": "azerbaijan",
+    "countryName": "Azerbaijan",
+    "slug": "sumqayit-az",
+    "name": "Sumqayit",
+    "type": "major"
+  },
+  {
+    "code": "bs",
+    "countrySlug": "bahamas",
+    "countryName": "Bahamas",
+    "slug": "bahamas-capital",
+    "name": "Nassau",
+    "type": "capital"
+  },
+  {
+    "code": "bh",
+    "countrySlug": "bahrain",
+    "countryName": "Bahrain",
+    "slug": "bahrain-capital",
+    "name": "Manama",
+    "type": "capital"
+  },
+  {
+    "code": "bh",
+    "countrySlug": "bahrain",
+    "countryName": "Bahrain",
+    "slug": "riffa-bh",
+    "name": "Riffa",
+    "type": "major"
+  },
+  {
+    "code": "bd",
+    "countrySlug": "bangladesh",
+    "countryName": "Bangladesh",
+    "slug": "bangladesh-capital",
+    "name": "Dhaka",
+    "type": "capital"
+  },
+  {
+    "code": "bd",
+    "countrySlug": "bangladesh",
+    "countryName": "Bangladesh",
+    "slug": "chittagong-bd",
+    "name": "Chittagong",
+    "type": "major"
+  },
+  {
+    "code": "bd",
+    "countrySlug": "bangladesh",
+    "countryName": "Bangladesh",
+    "slug": "khulna-bd",
+    "name": "Khulna",
+    "type": "major"
+  },
+  {
+    "code": "bd",
+    "countrySlug": "bangladesh",
+    "countryName": "Bangladesh",
+    "slug": "rajshahi-bd",
+    "name": "Rajshahi",
+    "type": "major"
+  },
+  {
+    "code": "bb",
+    "countrySlug": "barbados",
+    "countryName": "Barbados",
+    "slug": "barbados-capital",
+    "name": "Bridgetown",
+    "type": "capital"
+  },
+  {
+    "code": "by",
+    "countrySlug": "belarus",
+    "countryName": "Belarus",
+    "slug": "belarus-capital",
+    "name": "Minsk",
+    "type": "capital"
+  },
+  {
+    "code": "by",
+    "countrySlug": "belarus",
+    "countryName": "Belarus",
+    "slug": "gomel-by",
+    "name": "Gomel",
+    "type": "major"
+  },
+  {
+    "code": "by",
+    "countrySlug": "belarus",
+    "countryName": "Belarus",
+    "slug": "mogilev-by",
+    "name": "Mogilev",
+    "type": "major"
+  },
+  {
+    "code": "by",
+    "countrySlug": "belarus",
+    "countryName": "Belarus",
+    "slug": "vitebsk-by",
+    "name": "Vitebsk",
+    "type": "major"
+  },
+  {
+    "code": "be",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "slug": "belgium-capital",
+    "name": "Brussels",
+    "type": "capital"
+  },
+  {
+    "code": "be",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "slug": "antwerp-be",
+    "name": "Antwerp",
+    "type": "major"
+  },
+  {
+    "code": "be",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "slug": "ghent-be",
+    "name": "Ghent",
+    "type": "major"
+  },
+  {
+    "code": "be",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "slug": "charleroi-be",
+    "name": "Charleroi",
+    "type": "major"
+  },
+  {
+    "code": "be",
+    "countrySlug": "belgium",
+    "countryName": "Belgium",
+    "slug": "li-ge-be",
+    "name": "Liège",
+    "type": "major"
+  },
+  {
+    "code": "bz",
+    "countrySlug": "belize",
+    "countryName": "Belize",
+    "slug": "belize-capital",
+    "name": "Belmopan",
+    "type": "capital"
+  },
+  {
+    "code": "bz",
+    "countrySlug": "belize",
+    "countryName": "Belize",
+    "slug": "belize-city-bz",
+    "name": "Belize City",
+    "type": "major"
+  },
+  {
+    "code": "bj",
+    "countrySlug": "benin",
+    "countryName": "Benin",
+    "slug": "benin-capital",
+    "name": "Porto-Novo",
+    "type": "capital"
+  },
+  {
+    "code": "bj",
+    "countrySlug": "benin",
+    "countryName": "Benin",
+    "slug": "cotonou-bj",
+    "name": "Cotonou",
+    "type": "major"
+  },
+  {
+    "code": "bj",
+    "countrySlug": "benin",
+    "countryName": "Benin",
+    "slug": "abomey-calavi-bj",
+    "name": "Abomey-Calavi",
+    "type": "major"
+  },
+  {
+    "code": "bt",
+    "countrySlug": "bhutan",
+    "countryName": "Bhutan",
+    "slug": "bhutan-capital",
+    "name": "Thimphu",
+    "type": "capital"
+  },
+  {
+    "code": "bt",
+    "countrySlug": "bhutan",
+    "countryName": "Bhutan",
+    "slug": "phuntsholing-bt",
+    "name": "Phuntsholing",
+    "type": "major"
+  },
+  {
+    "code": "bo",
+    "countrySlug": "bolivia",
+    "countryName": "Bolivia",
+    "slug": "bolivia-capital",
+    "name": "Sucre",
+    "type": "capital"
+  },
+  {
+    "code": "bo",
+    "countrySlug": "bolivia",
+    "countryName": "Bolivia",
+    "slug": "la-paz-bo",
+    "name": "La Paz",
+    "type": "major"
+  },
+  {
+    "code": "bo",
+    "countrySlug": "bolivia",
+    "countryName": "Bolivia",
+    "slug": "santa-cruz-bo",
+    "name": "Santa Cruz",
+    "type": "major"
+  },
+  {
+    "code": "bo",
+    "countrySlug": "bolivia",
+    "countryName": "Bolivia",
+    "slug": "cochabamba-bo",
+    "name": "Cochabamba",
+    "type": "major"
+  },
+  {
+    "code": "ba",
+    "countrySlug": "bosnia-and-herzegovina",
+    "countryName": "Bosnia and Herzegovina",
+    "slug": "bosnia-and-herzegovina-capital",
+    "name": "Sarajevo",
+    "type": "capital"
+  },
+  {
+    "code": "ba",
+    "countrySlug": "bosnia-and-herzegovina",
+    "countryName": "Bosnia and Herzegovina",
+    "slug": "banja-luka-ba",
+    "name": "Banja Luka",
+    "type": "major"
+  },
+  {
+    "code": "ba",
+    "countrySlug": "bosnia-and-herzegovina",
+    "countryName": "Bosnia and Herzegovina",
+    "slug": "tuzla-ba",
+    "name": "Tuzla",
+    "type": "major"
+  },
+  {
+    "code": "ba",
+    "countrySlug": "bosnia-and-herzegovina",
+    "countryName": "Bosnia and Herzegovina",
+    "slug": "zenica-ba",
+    "name": "Zenica",
+    "type": "major"
+  },
+  {
+    "code": "bw",
+    "countrySlug": "botswana",
+    "countryName": "Botswana",
+    "slug": "botswana-capital",
+    "name": "Gaborone",
+    "type": "capital"
+  },
+  {
+    "code": "bw",
+    "countrySlug": "botswana",
+    "countryName": "Botswana",
+    "slug": "francistown-bw",
+    "name": "Francistown",
+    "type": "major"
+  },
+  {
+    "code": "bw",
+    "countrySlug": "botswana",
+    "countryName": "Botswana",
+    "slug": "molepolole-bw",
+    "name": "Molepolole",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "brazil-capital",
+    "name": "Brasília",
+    "type": "capital"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "s-o-paulo-br",
+    "name": "São Paulo",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "rio-de-janeiro-br",
+    "name": "Rio de Janeiro",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "salvador-br",
+    "name": "Salvador",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "fortaleza-br",
+    "name": "Fortaleza",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "belo-horizonte-br",
+    "name": "Belo Horizonte",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "curitiba-br",
+    "name": "Curitiba",
+    "type": "major"
+  },
+  {
+    "code": "br",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "slug": "manaus-br",
+    "name": "Manaus",
+    "type": "major"
+  },
+  {
+    "code": "bn",
+    "countrySlug": "brunei",
+    "countryName": "Brunei",
+    "slug": "brunei-capital",
+    "name": "Bandar Seri Begawan",
+    "type": "capital"
+  },
+  {
+    "code": "bg",
+    "countrySlug": "bulgaria",
+    "countryName": "Bulgaria",
+    "slug": "bulgaria-capital",
+    "name": "Sofia",
+    "type": "capital"
+  },
+  {
+    "code": "bg",
+    "countrySlug": "bulgaria",
+    "countryName": "Bulgaria",
+    "slug": "plovdiv-bg",
+    "name": "Plovdiv",
+    "type": "major"
+  },
+  {
+    "code": "bg",
+    "countrySlug": "bulgaria",
+    "countryName": "Bulgaria",
+    "slug": "varna-bg",
+    "name": "Varna",
+    "type": "major"
+  },
+  {
+    "code": "bg",
+    "countrySlug": "bulgaria",
+    "countryName": "Bulgaria",
+    "slug": "burgas-bg",
+    "name": "Burgas",
+    "type": "major"
+  },
+  {
+    "code": "bf",
+    "countrySlug": "burkina-faso",
+    "countryName": "Burkina Faso",
+    "slug": "burkina-faso-capital",
+    "name": "Ouagadougou",
+    "type": "capital"
+  },
+  {
+    "code": "bf",
+    "countrySlug": "burkina-faso",
+    "countryName": "Burkina Faso",
+    "slug": "bobo-dioulasso-bf",
+    "name": "Bobo-Dioulasso",
+    "type": "major"
+  },
+  {
+    "code": "bi",
+    "countrySlug": "burundi",
+    "countryName": "Burundi",
+    "slug": "burundi-capital",
+    "name": "Gitega",
+    "type": "capital"
+  },
+  {
+    "code": "bi",
+    "countrySlug": "burundi",
+    "countryName": "Burundi",
+    "slug": "bujumbura-bi",
+    "name": "Bujumbura",
+    "type": "major"
+  },
+  {
+    "code": "cv",
+    "countrySlug": "cabo-verde",
+    "countryName": "Cabo Verde",
+    "slug": "cabo-verde-capital",
+    "name": "Praia",
+    "type": "capital"
+  },
+  {
+    "code": "cv",
+    "countrySlug": "cabo-verde",
+    "countryName": "Cabo Verde",
+    "slug": "mindelo-cv",
+    "name": "Mindelo",
+    "type": "major"
+  },
+  {
+    "code": "kh",
+    "countrySlug": "cambodia",
+    "countryName": "Cambodia",
+    "slug": "cambodia-capital",
+    "name": "Phnom Penh",
+    "type": "capital"
+  },
+  {
+    "code": "kh",
+    "countrySlug": "cambodia",
+    "countryName": "Cambodia",
+    "slug": "siem-reap-kh",
+    "name": "Siem Reap",
+    "type": "major"
+  },
+  {
+    "code": "kh",
+    "countrySlug": "cambodia",
+    "countryName": "Cambodia",
+    "slug": "battambang-kh",
+    "name": "Battambang",
+    "type": "major"
+  },
+  {
+    "code": "cm",
+    "countrySlug": "cameroon",
+    "countryName": "Cameroon",
+    "slug": "cameroon-capital",
+    "name": "Yaoundé",
+    "type": "capital"
+  },
+  {
+    "code": "cm",
+    "countrySlug": "cameroon",
+    "countryName": "Cameroon",
+    "slug": "douala-cm",
+    "name": "Douala",
+    "type": "major"
+  },
+  {
+    "code": "cm",
+    "countrySlug": "cameroon",
+    "countryName": "Cameroon",
+    "slug": "garoua-cm",
+    "name": "Garoua",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "canada-capital",
+    "name": "Ottawa",
+    "type": "capital"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "toronto-ca",
+    "name": "Toronto",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "vancouver-ca",
+    "name": "Vancouver",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "montreal-ca",
+    "name": "Montreal",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "calgary-ca",
+    "name": "Calgary",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "edmonton-ca",
+    "name": "Edmonton",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "quebec-city-ca",
+    "name": "Quebec City",
+    "type": "major"
+  },
+  {
+    "code": "ca",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "slug": "winnipeg-ca",
+    "name": "Winnipeg",
+    "type": "major"
+  },
+  {
+    "code": "cf",
+    "countrySlug": "central-african-republic",
+    "countryName": "Central African Republic",
+    "slug": "central-african-republic-capital",
+    "name": "Bangui",
+    "type": "capital"
+  },
+  {
+    "code": "td",
+    "countrySlug": "chad",
+    "countryName": "Chad",
+    "slug": "chad-capital",
+    "name": "N'Djamena",
+    "type": "capital"
+  },
+  {
+    "code": "td",
+    "countrySlug": "chad",
+    "countryName": "Chad",
+    "slug": "moundou-td",
+    "name": "Moundou",
+    "type": "major"
+  },
+  {
+    "code": "cl",
+    "countrySlug": "chile",
+    "countryName": "Chile",
+    "slug": "chile-capital",
+    "name": "Santiago",
+    "type": "capital"
+  },
+  {
+    "code": "cl",
+    "countrySlug": "chile",
+    "countryName": "Chile",
+    "slug": "valpara-so-cl",
+    "name": "Valparaíso",
+    "type": "major"
+  },
+  {
+    "code": "cl",
+    "countrySlug": "chile",
+    "countryName": "Chile",
+    "slug": "concepci-n-cl",
+    "name": "Concepción",
+    "type": "major"
+  },
+  {
+    "code": "cl",
+    "countrySlug": "chile",
+    "countryName": "Chile",
+    "slug": "la-serena-cl",
+    "name": "La Serena",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "china-capital",
+    "name": "Beijing",
+    "type": "capital"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "shanghai-cn",
+    "name": "Shanghai",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "guangzhou-cn",
+    "name": "Guangzhou",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "shenzhen-cn",
+    "name": "Shenzhen",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "chengdu-cn",
+    "name": "Chengdu",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "hangzhou-cn",
+    "name": "Hangzhou",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "wuhan-cn",
+    "name": "Wuhan",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "nanjing-cn",
+    "name": "Nanjing",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "chongqing-cn",
+    "name": "Chongqing",
+    "type": "major"
+  },
+  {
+    "code": "cn",
+    "countrySlug": "china",
+    "countryName": "China",
+    "slug": "tianjin-cn",
+    "name": "Tianjin",
+    "type": "major"
+  },
+  {
+    "code": "co",
+    "countrySlug": "colombia",
+    "countryName": "Colombia",
+    "slug": "colombia-capital",
+    "name": "Bogotá",
+    "type": "capital"
+  },
+  {
+    "code": "co",
+    "countrySlug": "colombia",
+    "countryName": "Colombia",
+    "slug": "medell-n-co",
+    "name": "Medellín",
+    "type": "major"
+  },
+  {
+    "code": "co",
+    "countrySlug": "colombia",
+    "countryName": "Colombia",
+    "slug": "cali-co",
+    "name": "Cali",
+    "type": "major"
+  },
+  {
+    "code": "co",
+    "countrySlug": "colombia",
+    "countryName": "Colombia",
+    "slug": "barranquilla-co",
+    "name": "Barranquilla",
+    "type": "major"
+  },
+  {
+    "code": "co",
+    "countrySlug": "colombia",
+    "countryName": "Colombia",
+    "slug": "cartagena-co",
+    "name": "Cartagena",
+    "type": "major"
+  },
+  {
+    "code": "km",
+    "countrySlug": "comoros",
+    "countryName": "Comoros",
+    "slug": "comoros-capital",
+    "name": "Moroni",
+    "type": "capital"
+  },
+  {
+    "code": "cd",
+    "countrySlug": "democratic-republic-of-the-congo",
+    "countryName": "Democratic Republic of the Congo",
+    "slug": "democratic-republic-of-the-congo-capital",
+    "name": "Kinshasa",
+    "type": "capital"
+  },
+  {
+    "code": "cd",
+    "countrySlug": "democratic-republic-of-the-congo",
+    "countryName": "Democratic Republic of the Congo",
+    "slug": "lubumbashi-cd",
+    "name": "Lubumbashi",
+    "type": "major"
+  },
+  {
+    "code": "cd",
+    "countrySlug": "democratic-republic-of-the-congo",
+    "countryName": "Democratic Republic of the Congo",
+    "slug": "mbuji-mayi-cd",
+    "name": "Mbuji-Mayi",
+    "type": "major"
+  },
+  {
+    "code": "cd",
+    "countrySlug": "democratic-republic-of-the-congo",
+    "countryName": "Democratic Republic of the Congo",
+    "slug": "bukavu-cd",
+    "name": "Bukavu",
+    "type": "major"
+  },
+  {
+    "code": "cd",
+    "countrySlug": "democratic-republic-of-the-congo",
+    "countryName": "Democratic Republic of the Congo",
+    "slug": "kisangani-cd",
+    "name": "Kisangani",
+    "type": "major"
+  },
+  {
+    "code": "cg",
+    "countrySlug": "republic-of-the-congo",
+    "countryName": "Republic of the Congo",
+    "slug": "republic-of-the-congo-capital",
+    "name": "Brazzaville",
+    "type": "capital"
+  },
+  {
+    "code": "cg",
+    "countrySlug": "republic-of-the-congo",
+    "countryName": "Republic of the Congo",
+    "slug": "pointe-noire-cg",
+    "name": "Pointe-Noire",
+    "type": "major"
+  },
+  {
+    "code": "cr",
+    "countrySlug": "costa-rica",
+    "countryName": "Costa Rica",
+    "slug": "costa-rica-capital",
+    "name": "San José",
+    "type": "capital"
+  },
+  {
+    "code": "cr",
+    "countrySlug": "costa-rica",
+    "countryName": "Costa Rica",
+    "slug": "alajuela-cr",
+    "name": "Alajuela",
+    "type": "major"
+  },
+  {
+    "code": "cr",
+    "countrySlug": "costa-rica",
+    "countryName": "Costa Rica",
+    "slug": "cartago-cr",
+    "name": "Cartago",
+    "type": "major"
+  },
+  {
+    "code": "ci",
+    "countrySlug": "cte-divoire",
+    "countryName": "Côte d'Ivoire",
+    "slug": "cte-divoire-capital",
+    "name": "Yamoussoukro",
+    "type": "capital"
+  },
+  {
+    "code": "ci",
+    "countrySlug": "cte-divoire",
+    "countryName": "Côte d'Ivoire",
+    "slug": "abidjan-ci",
+    "name": "Abidjan",
+    "type": "major"
+  },
+  {
+    "code": "ci",
+    "countrySlug": "cte-divoire",
+    "countryName": "Côte d'Ivoire",
+    "slug": "bouak-ci",
+    "name": "Bouaké",
+    "type": "major"
+  },
+  {
+    "code": "hr",
+    "countrySlug": "croatia",
+    "countryName": "Croatia",
+    "slug": "croatia-capital",
+    "name": "Zagreb",
+    "type": "capital"
+  },
+  {
+    "code": "hr",
+    "countrySlug": "croatia",
+    "countryName": "Croatia",
+    "slug": "split-hr",
+    "name": "Split",
+    "type": "major"
+  },
+  {
+    "code": "hr",
+    "countrySlug": "croatia",
+    "countryName": "Croatia",
+    "slug": "rijeka-hr",
+    "name": "Rijeka",
+    "type": "major"
+  },
+  {
+    "code": "hr",
+    "countrySlug": "croatia",
+    "countryName": "Croatia",
+    "slug": "osijek-hr",
+    "name": "Osijek",
+    "type": "major"
+  },
+  {
+    "code": "cu",
+    "countrySlug": "cuba",
+    "countryName": "Cuba",
+    "slug": "cuba-capital",
+    "name": "Havana",
+    "type": "capital"
+  },
+  {
+    "code": "cu",
+    "countrySlug": "cuba",
+    "countryName": "Cuba",
+    "slug": "santiago-de-cuba-cu",
+    "name": "Santiago de Cuba",
+    "type": "major"
+  },
+  {
+    "code": "cu",
+    "countrySlug": "cuba",
+    "countryName": "Cuba",
+    "slug": "camag-ey-cu",
+    "name": "Camagüey",
+    "type": "major"
+  },
+  {
+    "code": "cy",
+    "countrySlug": "cyprus",
+    "countryName": "Cyprus",
+    "slug": "cyprus-capital",
+    "name": "Nicosia",
+    "type": "capital"
+  },
+  {
+    "code": "cy",
+    "countrySlug": "cyprus",
+    "countryName": "Cyprus",
+    "slug": "limassol-cy",
+    "name": "Limassol",
+    "type": "major"
+  },
+  {
+    "code": "cy",
+    "countrySlug": "cyprus",
+    "countryName": "Cyprus",
+    "slug": "larnaca-cy",
+    "name": "Larnaca",
+    "type": "major"
+  },
+  {
+    "code": "cz",
+    "countrySlug": "czech-republic",
+    "countryName": "Czech Republic",
+    "slug": "czech-republic-capital",
+    "name": "Prague",
+    "type": "capital"
+  },
+  {
+    "code": "cz",
+    "countrySlug": "czech-republic",
+    "countryName": "Czech Republic",
+    "slug": "brno-cz",
+    "name": "Brno",
+    "type": "major"
+  },
+  {
+    "code": "cz",
+    "countrySlug": "czech-republic",
+    "countryName": "Czech Republic",
+    "slug": "ostrava-cz",
+    "name": "Ostrava",
+    "type": "major"
+  },
+  {
+    "code": "cz",
+    "countrySlug": "czech-republic",
+    "countryName": "Czech Republic",
+    "slug": "plze-cz",
+    "name": "Plzeň",
+    "type": "major"
+  },
+  {
+    "code": "dk",
+    "countrySlug": "denmark",
+    "countryName": "Denmark",
+    "slug": "denmark-capital",
+    "name": "Copenhagen",
+    "type": "capital"
+  },
+  {
+    "code": "dk",
+    "countrySlug": "denmark",
+    "countryName": "Denmark",
+    "slug": "aarhus-dk",
+    "name": "Aarhus",
+    "type": "major"
+  },
+  {
+    "code": "dk",
+    "countrySlug": "denmark",
+    "countryName": "Denmark",
+    "slug": "odense-dk",
+    "name": "Odense",
+    "type": "major"
+  },
+  {
+    "code": "dk",
+    "countrySlug": "denmark",
+    "countryName": "Denmark",
+    "slug": "aalborg-dk",
+    "name": "Aalborg",
+    "type": "major"
+  },
+  {
+    "code": "dj",
+    "countrySlug": "djibouti",
+    "countryName": "Djibouti",
+    "slug": "djibouti-capital",
+    "name": "Djibouti City",
+    "type": "capital"
+  },
+  {
+    "code": "dm",
+    "countrySlug": "dominica",
+    "countryName": "Dominica",
+    "slug": "dominica-capital",
+    "name": "Roseau",
+    "type": "capital"
+  },
+  {
+    "code": "do",
+    "countrySlug": "dominican-republic",
+    "countryName": "Dominican Republic",
+    "slug": "dominican-republic-capital",
+    "name": "Santo Domingo",
+    "type": "capital"
+  },
+  {
+    "code": "do",
+    "countrySlug": "dominican-republic",
+    "countryName": "Dominican Republic",
+    "slug": "santiago-de-los-caballeros-do",
+    "name": "Santiago de los Caballeros",
+    "type": "major"
+  },
+  {
+    "code": "do",
+    "countrySlug": "dominican-republic",
+    "countryName": "Dominican Republic",
+    "slug": "la-romana-do",
+    "name": "La Romana",
+    "type": "major"
+  },
+  {
+    "code": "ec",
+    "countrySlug": "ecuador",
+    "countryName": "Ecuador",
+    "slug": "ecuador-capital",
+    "name": "Quito",
+    "type": "capital"
+  },
+  {
+    "code": "ec",
+    "countrySlug": "ecuador",
+    "countryName": "Ecuador",
+    "slug": "guayaquil-ec",
+    "name": "Guayaquil",
+    "type": "major"
+  },
+  {
+    "code": "ec",
+    "countrySlug": "ecuador",
+    "countryName": "Ecuador",
+    "slug": "cuenca-ec",
+    "name": "Cuenca",
+    "type": "major"
+  },
+  {
+    "code": "ec",
+    "countrySlug": "ecuador",
+    "countryName": "Ecuador",
+    "slug": "santo-domingo-ec",
+    "name": "Santo Domingo",
+    "type": "major"
+  },
+  {
+    "code": "eg",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "slug": "egypt-capital",
+    "name": "Cairo",
+    "type": "capital"
+  },
+  {
+    "code": "eg",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "slug": "alexandria-eg",
+    "name": "Alexandria",
+    "type": "major"
+  },
+  {
+    "code": "eg",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "slug": "giza-eg",
+    "name": "Giza",
+    "type": "major"
+  },
+  {
+    "code": "eg",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "slug": "luxor-eg",
+    "name": "Luxor",
+    "type": "major"
+  },
+  {
+    "code": "eg",
+    "countrySlug": "egypt",
+    "countryName": "Egypt",
+    "slug": "port-said-eg",
+    "name": "Port Said",
+    "type": "major"
+  },
+  {
+    "code": "sv",
+    "countrySlug": "el-salvador",
+    "countryName": "El Salvador",
+    "slug": "el-salvador-capital",
+    "name": "San Salvador",
+    "type": "capital"
+  },
+  {
+    "code": "sv",
+    "countrySlug": "el-salvador",
+    "countryName": "El Salvador",
+    "slug": "santa-ana-sv",
+    "name": "Santa Ana",
+    "type": "major"
+  },
+  {
+    "code": "sv",
+    "countrySlug": "el-salvador",
+    "countryName": "El Salvador",
+    "slug": "san-miguel-sv",
+    "name": "San Miguel",
+    "type": "major"
+  },
+  {
+    "code": "gq",
+    "countrySlug": "equatorial-guinea",
+    "countryName": "Equatorial Guinea",
+    "slug": "equatorial-guinea-capital",
+    "name": "Malabo",
+    "type": "capital"
+  },
+  {
+    "code": "gq",
+    "countrySlug": "equatorial-guinea",
+    "countryName": "Equatorial Guinea",
+    "slug": "bata-gq",
+    "name": "Bata",
+    "type": "major"
+  },
+  {
+    "code": "er",
+    "countrySlug": "eritrea",
+    "countryName": "Eritrea",
+    "slug": "eritrea-capital",
+    "name": "Asmara",
+    "type": "capital"
+  },
+  {
+    "code": "er",
+    "countrySlug": "eritrea",
+    "countryName": "Eritrea",
+    "slug": "keren-er",
+    "name": "Keren",
+    "type": "major"
+  },
+  {
+    "code": "ee",
+    "countrySlug": "estonia",
+    "countryName": "Estonia",
+    "slug": "estonia-capital",
+    "name": "Tallinn",
+    "type": "capital"
+  },
+  {
+    "code": "ee",
+    "countrySlug": "estonia",
+    "countryName": "Estonia",
+    "slug": "tartu-ee",
+    "name": "Tartu",
+    "type": "major"
+  },
+  {
+    "code": "ee",
+    "countrySlug": "estonia",
+    "countryName": "Estonia",
+    "slug": "narva-ee",
+    "name": "Narva",
+    "type": "major"
+  },
+  {
+    "code": "sz",
+    "countrySlug": "eswatini",
+    "countryName": "Eswatini",
+    "slug": "eswatini-capital",
+    "name": "Mbabane",
+    "type": "capital"
+  },
+  {
+    "code": "sz",
+    "countrySlug": "eswatini",
+    "countryName": "Eswatini",
+    "slug": "manzini-sz",
+    "name": "Manzini",
+    "type": "major"
+  },
+  {
+    "code": "et",
+    "countrySlug": "ethiopia",
+    "countryName": "Ethiopia",
+    "slug": "ethiopia-capital",
+    "name": "Addis Ababa",
+    "type": "capital"
+  },
+  {
+    "code": "et",
+    "countrySlug": "ethiopia",
+    "countryName": "Ethiopia",
+    "slug": "dire-dawa-et",
+    "name": "Dire Dawa",
+    "type": "major"
+  },
+  {
+    "code": "et",
+    "countrySlug": "ethiopia",
+    "countryName": "Ethiopia",
+    "slug": "bahir-dar-et",
+    "name": "Bahir Dar",
+    "type": "major"
+  },
+  {
+    "code": "et",
+    "countrySlug": "ethiopia",
+    "countryName": "Ethiopia",
+    "slug": "gondar-et",
+    "name": "Gondar",
+    "type": "major"
+  },
+  {
+    "code": "fj",
+    "countrySlug": "fiji",
+    "countryName": "Fiji",
+    "slug": "fiji-capital",
+    "name": "Suva",
+    "type": "capital"
+  },
+  {
+    "code": "fj",
+    "countrySlug": "fiji",
+    "countryName": "Fiji",
+    "slug": "nadi-fj",
+    "name": "Nadi",
+    "type": "major"
+  },
+  {
+    "code": "fj",
+    "countrySlug": "fiji",
+    "countryName": "Fiji",
+    "slug": "lautoka-fj",
+    "name": "Lautoka",
+    "type": "major"
+  },
+  {
+    "code": "fi",
+    "countrySlug": "finland",
+    "countryName": "Finland",
+    "slug": "finland-capital",
+    "name": "Helsinki",
+    "type": "capital"
+  },
+  {
+    "code": "fi",
+    "countrySlug": "finland",
+    "countryName": "Finland",
+    "slug": "espoo-fi",
+    "name": "Espoo",
+    "type": "major"
+  },
+  {
+    "code": "fi",
+    "countrySlug": "finland",
+    "countryName": "Finland",
+    "slug": "tampere-fi",
+    "name": "Tampere",
+    "type": "major"
+  },
+  {
+    "code": "fi",
+    "countrySlug": "finland",
+    "countryName": "Finland",
+    "slug": "turku-fi",
+    "name": "Turku",
+    "type": "major"
+  },
+  {
+    "code": "fi",
+    "countrySlug": "finland",
+    "countryName": "Finland",
+    "slug": "oulu-fi",
+    "name": "Oulu",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "france-capital",
+    "name": "Paris",
+    "type": "capital"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "marseille-fr",
+    "name": "Marseille",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "lyon-fr",
+    "name": "Lyon",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "toulouse-fr",
+    "name": "Toulouse",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "nice-fr",
+    "name": "Nice",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "nantes-fr",
+    "name": "Nantes",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "strasbourg-fr",
+    "name": "Strasbourg",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "montpellier-fr",
+    "name": "Montpellier",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "bordeaux-fr",
+    "name": "Bordeaux",
+    "type": "major"
+  },
+  {
+    "code": "fr",
+    "countrySlug": "france",
+    "countryName": "France",
+    "slug": "lille-fr",
+    "name": "Lille",
+    "type": "major"
+  },
+  {
+    "code": "ga",
+    "countrySlug": "gabon",
+    "countryName": "Gabon",
+    "slug": "gabon-capital",
+    "name": "Libreville",
+    "type": "capital"
+  },
+  {
+    "code": "ga",
+    "countrySlug": "gabon",
+    "countryName": "Gabon",
+    "slug": "port-gentil-ga",
+    "name": "Port-Gentil",
+    "type": "major"
+  },
+  {
+    "code": "gm",
+    "countrySlug": "gambia",
+    "countryName": "Gambia",
+    "slug": "gambia-capital",
+    "name": "Banjul",
+    "type": "capital"
+  },
+  {
+    "code": "gm",
+    "countrySlug": "gambia",
+    "countryName": "Gambia",
+    "slug": "serekunda-gm",
+    "name": "Serekunda",
+    "type": "major"
+  },
+  {
+    "code": "ge",
+    "countrySlug": "georgia",
+    "countryName": "Georgia",
+    "slug": "georgia-capital",
+    "name": "Tbilisi",
+    "type": "capital"
+  },
+  {
+    "code": "ge",
+    "countrySlug": "georgia",
+    "countryName": "Georgia",
+    "slug": "batumi-ge",
+    "name": "Batumi",
+    "type": "major"
+  },
+  {
+    "code": "ge",
+    "countrySlug": "georgia",
+    "countryName": "Georgia",
+    "slug": "kutaisi-ge",
+    "name": "Kutaisi",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "germany-capital",
+    "name": "Berlin",
+    "type": "capital"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "munich-de",
+    "name": "Munich",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "hamburg-de",
+    "name": "Hamburg",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "cologne-de",
+    "name": "Cologne",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "frankfurt-de",
+    "name": "Frankfurt",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "stuttgart-de",
+    "name": "Stuttgart",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "d-sseldorf-de",
+    "name": "Düsseldorf",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "leipzig-de",
+    "name": "Leipzig",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "dresden-de",
+    "name": "Dresden",
+    "type": "major"
+  },
+  {
+    "code": "de",
+    "countrySlug": "germany",
+    "countryName": "Germany",
+    "slug": "hanover-de",
+    "name": "Hanover",
+    "type": "major"
+  },
+  {
+    "code": "gh",
+    "countrySlug": "ghana",
+    "countryName": "Ghana",
+    "slug": "ghana-capital",
+    "name": "Accra",
+    "type": "capital"
+  },
+  {
+    "code": "gh",
+    "countrySlug": "ghana",
+    "countryName": "Ghana",
+    "slug": "kumasi-gh",
+    "name": "Kumasi",
+    "type": "major"
+  },
+  {
+    "code": "gh",
+    "countrySlug": "ghana",
+    "countryName": "Ghana",
+    "slug": "sekondi-takoradi-gh",
+    "name": "Sekondi-Takoradi",
+    "type": "major"
+  },
+  {
+    "code": "gr",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "slug": "greece-capital",
+    "name": "Athens",
+    "type": "capital"
+  },
+  {
+    "code": "gr",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "slug": "thessaloniki-gr",
+    "name": "Thessaloniki",
+    "type": "major"
+  },
+  {
+    "code": "gr",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "slug": "patras-gr",
+    "name": "Patras",
+    "type": "major"
+  },
+  {
+    "code": "gr",
+    "countrySlug": "greece",
+    "countryName": "Greece",
+    "slug": "heraklion-gr",
+    "name": "Heraklion",
+    "type": "major"
+  },
+  {
+    "code": "gd",
+    "countrySlug": "grenada",
+    "countryName": "Grenada",
+    "slug": "grenada-capital",
+    "name": "Saint George's",
+    "type": "capital"
+  },
+  {
+    "code": "gt",
+    "countrySlug": "guatemala",
+    "countryName": "Guatemala",
+    "slug": "guatemala-capital",
+    "name": "Guatemala City",
+    "type": "capital"
+  },
+  {
+    "code": "gt",
+    "countrySlug": "guatemala",
+    "countryName": "Guatemala",
+    "slug": "quetzaltenango-gt",
+    "name": "Quetzaltenango",
+    "type": "major"
+  },
+  {
+    "code": "gn",
+    "countrySlug": "guinea",
+    "countryName": "Guinea",
+    "slug": "guinea-capital",
+    "name": "Conakry",
+    "type": "capital"
+  },
+  {
+    "code": "gn",
+    "countrySlug": "guinea",
+    "countryName": "Guinea",
+    "slug": "nz-r-kor-gn",
+    "name": "Nzérékoré",
+    "type": "major"
+  },
+  {
+    "code": "gw",
+    "countrySlug": "guinea-bissau",
+    "countryName": "Guinea-Bissau",
+    "slug": "guinea-bissau-capital",
+    "name": "Bissau",
+    "type": "capital"
+  },
+  {
+    "code": "gy",
+    "countrySlug": "guyana",
+    "countryName": "Guyana",
+    "slug": "guyana-capital",
+    "name": "Georgetown",
+    "type": "capital"
+  },
+  {
+    "code": "gy",
+    "countrySlug": "guyana",
+    "countryName": "Guyana",
+    "slug": "linden-gy",
+    "name": "Linden",
+    "type": "major"
+  },
+  {
+    "code": "ht",
+    "countrySlug": "haiti",
+    "countryName": "Haiti",
+    "slug": "haiti-capital",
+    "name": "Port-au-Prince",
+    "type": "capital"
+  },
+  {
+    "code": "ht",
+    "countrySlug": "haiti",
+    "countryName": "Haiti",
+    "slug": "cap-ha-tien-ht",
+    "name": "Cap-Haïtien",
+    "type": "major"
+  },
+  {
+    "code": "hn",
+    "countrySlug": "honduras",
+    "countryName": "Honduras",
+    "slug": "honduras-capital",
+    "name": "Tegucigalpa",
+    "type": "capital"
+  },
+  {
+    "code": "hn",
+    "countrySlug": "honduras",
+    "countryName": "Honduras",
+    "slug": "san-pedro-sula-hn",
+    "name": "San Pedro Sula",
+    "type": "major"
+  },
+  {
+    "code": "hu",
+    "countrySlug": "hungary",
+    "countryName": "Hungary",
+    "slug": "hungary-capital",
+    "name": "Budapest",
+    "type": "capital"
+  },
+  {
+    "code": "hu",
+    "countrySlug": "hungary",
+    "countryName": "Hungary",
+    "slug": "debrecen-hu",
+    "name": "Debrecen",
+    "type": "major"
+  },
+  {
+    "code": "hu",
+    "countrySlug": "hungary",
+    "countryName": "Hungary",
+    "slug": "szeged-hu",
+    "name": "Szeged",
+    "type": "major"
+  },
+  {
+    "code": "hu",
+    "countrySlug": "hungary",
+    "countryName": "Hungary",
+    "slug": "miskolc-hu",
+    "name": "Miskolc",
+    "type": "major"
+  },
+  {
+    "code": "is",
+    "countrySlug": "iceland",
+    "countryName": "Iceland",
+    "slug": "iceland-capital",
+    "name": "Reykjavik",
+    "type": "capital"
+  },
+  {
+    "code": "is",
+    "countrySlug": "iceland",
+    "countryName": "Iceland",
+    "slug": "k-pavogur-is",
+    "name": "Kópavogur",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "india-capital",
+    "name": "New Delhi",
+    "type": "capital"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "mumbai-in",
+    "name": "Mumbai",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "bangalore-in",
+    "name": "Bangalore",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "hyderabad-in",
+    "name": "Hyderabad",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "chennai-in",
+    "name": "Chennai",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "kolkata-in",
+    "name": "Kolkata",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "pune-in",
+    "name": "Pune",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "ahmedabad-in",
+    "name": "Ahmedabad",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "jaipur-in",
+    "name": "Jaipur",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "lucknow-in",
+    "name": "Lucknow",
+    "type": "major"
+  },
+  {
+    "code": "in",
+    "countrySlug": "india",
+    "countryName": "India",
+    "slug": "surat-in",
+    "name": "Surat",
+    "type": "major"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "indonesia-capital",
+    "name": "Jakarta",
+    "type": "capital"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "surabaya-id",
+    "name": "Surabaya",
+    "type": "major"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "bandung-id",
+    "name": "Bandung",
+    "type": "major"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "medan-id",
+    "name": "Medan",
+    "type": "major"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "semarang-id",
+    "name": "Semarang",
+    "type": "major"
+  },
+  {
+    "code": "id",
+    "countrySlug": "indonesia",
+    "countryName": "Indonesia",
+    "slug": "makassar-id",
+    "name": "Makassar",
+    "type": "major"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "iran-capital",
+    "name": "Tehran",
+    "type": "capital"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "mashhad-ir",
+    "name": "Mashhad",
+    "type": "major"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "isfahan-ir",
+    "name": "Isfahan",
+    "type": "major"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "shiraz-ir",
+    "name": "Shiraz",
+    "type": "major"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "tabriz-ir",
+    "name": "Tabriz",
+    "type": "major"
+  },
+  {
+    "code": "ir",
+    "countrySlug": "iran",
+    "countryName": "Iran",
+    "slug": "karaj-ir",
+    "name": "Karaj",
+    "type": "major"
+  },
+  {
+    "code": "iq",
+    "countrySlug": "iraq",
+    "countryName": "Iraq",
+    "slug": "iraq-capital",
+    "name": "Baghdad",
+    "type": "capital"
+  },
+  {
+    "code": "iq",
+    "countrySlug": "iraq",
+    "countryName": "Iraq",
+    "slug": "basra-iq",
+    "name": "Basra",
+    "type": "major"
+  },
+  {
+    "code": "iq",
+    "countrySlug": "iraq",
+    "countryName": "Iraq",
+    "slug": "mosul-iq",
+    "name": "Mosul",
+    "type": "major"
+  },
+  {
+    "code": "iq",
+    "countrySlug": "iraq",
+    "countryName": "Iraq",
+    "slug": "erbil-iq",
+    "name": "Erbil",
+    "type": "major"
+  },
+  {
+    "code": "iq",
+    "countrySlug": "iraq",
+    "countryName": "Iraq",
+    "slug": "kirkuk-iq",
+    "name": "Kirkuk",
+    "type": "major"
+  },
+  {
+    "code": "ie",
+    "countrySlug": "ireland",
+    "countryName": "Ireland",
+    "slug": "ireland-capital",
+    "name": "Dublin",
+    "type": "capital"
+  },
+  {
+    "code": "ie",
+    "countrySlug": "ireland",
+    "countryName": "Ireland",
+    "slug": "cork-ie",
+    "name": "Cork",
+    "type": "major"
+  },
+  {
+    "code": "ie",
+    "countrySlug": "ireland",
+    "countryName": "Ireland",
+    "slug": "limerick-ie",
+    "name": "Limerick",
+    "type": "major"
+  },
+  {
+    "code": "ie",
+    "countrySlug": "ireland",
+    "countryName": "Ireland",
+    "slug": "galway-ie",
+    "name": "Galway",
+    "type": "major"
+  },
+  {
+    "code": "il",
+    "countrySlug": "israel",
+    "countryName": "Israel",
+    "slug": "israel-capital",
+    "name": "Jerusalem",
+    "type": "capital"
+  },
+  {
+    "code": "il",
+    "countrySlug": "israel",
+    "countryName": "Israel",
+    "slug": "tel-aviv-il",
+    "name": "Tel Aviv",
+    "type": "major"
+  },
+  {
+    "code": "il",
+    "countrySlug": "israel",
+    "countryName": "Israel",
+    "slug": "haifa-il",
+    "name": "Haifa",
+    "type": "major"
+  },
+  {
+    "code": "il",
+    "countrySlug": "israel",
+    "countryName": "Israel",
+    "slug": "rishon-lezion-il",
+    "name": "Rishon LeZion",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "italy-capital",
+    "name": "Rome",
+    "type": "capital"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "milan-it",
+    "name": "Milan",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "naples-it",
+    "name": "Naples",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "turin-it",
+    "name": "Turin",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "palermo-it",
+    "name": "Palermo",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "bologna-it",
+    "name": "Bologna",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "florence-it",
+    "name": "Florence",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "catania-it",
+    "name": "Catania",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "venice-it",
+    "name": "Venice",
+    "type": "major"
+  },
+  {
+    "code": "it",
+    "countrySlug": "italy",
+    "countryName": "Italy",
+    "slug": "verona-it",
+    "name": "Verona",
+    "type": "major"
+  },
+  {
+    "code": "jm",
+    "countrySlug": "jamaica",
+    "countryName": "Jamaica",
+    "slug": "jamaica-capital",
+    "name": "Kingston",
+    "type": "capital"
+  },
+  {
+    "code": "jm",
+    "countrySlug": "jamaica",
+    "countryName": "Jamaica",
+    "slug": "montego-bay-jm",
+    "name": "Montego Bay",
+    "type": "major"
+  },
+  {
+    "code": "jm",
+    "countrySlug": "jamaica",
+    "countryName": "Jamaica",
+    "slug": "spanish-town-jm",
+    "name": "Spanish Town",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "japan-capital",
+    "name": "Tokyo",
+    "type": "capital"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "osaka-jp",
+    "name": "Osaka",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "yokohama-jp",
+    "name": "Yokohama",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "nagoya-jp",
+    "name": "Nagoya",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "sapporo-jp",
+    "name": "Sapporo",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "fukuoka-jp",
+    "name": "Fukuoka",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "kyoto-jp",
+    "name": "Kyoto",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "kobe-jp",
+    "name": "Kobe",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "kawasaki-jp",
+    "name": "Kawasaki",
+    "type": "major"
+  },
+  {
+    "code": "jp",
+    "countrySlug": "japan",
+    "countryName": "Japan",
+    "slug": "saitama-jp",
+    "name": "Saitama",
+    "type": "major"
+  },
+  {
+    "code": "jo",
+    "countrySlug": "jordan",
+    "countryName": "Jordan",
+    "slug": "jordan-capital",
+    "name": "Amman",
+    "type": "capital"
+  },
+  {
+    "code": "jo",
+    "countrySlug": "jordan",
+    "countryName": "Jordan",
+    "slug": "zarqa-jo",
+    "name": "Zarqa",
+    "type": "major"
+  },
+  {
+    "code": "jo",
+    "countrySlug": "jordan",
+    "countryName": "Jordan",
+    "slug": "irbid-jo",
+    "name": "Irbid",
+    "type": "major"
+  },
+  {
+    "code": "kz",
+    "countrySlug": "kazakhstan",
+    "countryName": "Kazakhstan",
+    "slug": "kazakhstan-capital",
+    "name": "Astana",
+    "type": "capital"
+  },
+  {
+    "code": "kz",
+    "countrySlug": "kazakhstan",
+    "countryName": "Kazakhstan",
+    "slug": "almaty-kz",
+    "name": "Almaty",
+    "type": "major"
+  },
+  {
+    "code": "kz",
+    "countrySlug": "kazakhstan",
+    "countryName": "Kazakhstan",
+    "slug": "shymkent-kz",
+    "name": "Shymkent",
+    "type": "major"
+  },
+  {
+    "code": "kz",
+    "countrySlug": "kazakhstan",
+    "countryName": "Kazakhstan",
+    "slug": "karaganda-kz",
+    "name": "Karaganda",
+    "type": "major"
+  },
+  {
+    "code": "ke",
+    "countrySlug": "kenya",
+    "countryName": "Kenya",
+    "slug": "kenya-capital",
+    "name": "Nairobi",
+    "type": "capital"
+  },
+  {
+    "code": "ke",
+    "countrySlug": "kenya",
+    "countryName": "Kenya",
+    "slug": "mombasa-ke",
+    "name": "Mombasa",
+    "type": "major"
+  },
+  {
+    "code": "ke",
+    "countrySlug": "kenya",
+    "countryName": "Kenya",
+    "slug": "kisumu-ke",
+    "name": "Kisumu",
+    "type": "major"
+  },
+  {
+    "code": "ke",
+    "countrySlug": "kenya",
+    "countryName": "Kenya",
+    "slug": "nakuru-ke",
+    "name": "Nakuru",
+    "type": "major"
+  },
+  {
+    "code": "ki",
+    "countrySlug": "kiribati",
+    "countryName": "Kiribati",
+    "slug": "kiribati-capital",
+    "name": "Tarawa",
+    "type": "capital"
+  },
+  {
+    "code": "kp",
+    "countrySlug": "north-korea",
+    "countryName": "North Korea",
+    "slug": "north-korea-capital",
+    "name": "Pyongyang",
+    "type": "capital"
+  },
+  {
+    "code": "kp",
+    "countrySlug": "north-korea",
+    "countryName": "North Korea",
+    "slug": "hamhung-kp",
+    "name": "Hamhung",
+    "type": "major"
+  },
+  {
+    "code": "kp",
+    "countrySlug": "north-korea",
+    "countryName": "North Korea",
+    "slug": "chongjin-kp",
+    "name": "Chongjin",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "south-korea-capital",
+    "name": "Seoul",
+    "type": "capital"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "busan-kr",
+    "name": "Busan",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "incheon-kr",
+    "name": "Incheon",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "daegu-kr",
+    "name": "Daegu",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "daejeon-kr",
+    "name": "Daejeon",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "gwangju-kr",
+    "name": "Gwangju",
+    "type": "major"
+  },
+  {
+    "code": "kr",
+    "countrySlug": "south-korea",
+    "countryName": "South Korea",
+    "slug": "suwon-kr",
+    "name": "Suwon",
+    "type": "major"
+  },
+  {
+    "code": "kw",
+    "countrySlug": "kuwait",
+    "countryName": "Kuwait",
+    "slug": "kuwait-capital",
+    "name": "Kuwait City",
+    "type": "capital"
+  },
+  {
+    "code": "kw",
+    "countrySlug": "kuwait",
+    "countryName": "Kuwait",
+    "slug": "al-ahmadi-kw",
+    "name": "Al Ahmadi",
+    "type": "major"
+  },
+  {
+    "code": "kg",
+    "countrySlug": "kyrgyzstan",
+    "countryName": "Kyrgyzstan",
+    "slug": "kyrgyzstan-capital",
+    "name": "Bishkek",
+    "type": "capital"
+  },
+  {
+    "code": "kg",
+    "countrySlug": "kyrgyzstan",
+    "countryName": "Kyrgyzstan",
+    "slug": "osh-kg",
+    "name": "Osh",
+    "type": "major"
+  },
+  {
+    "code": "la",
+    "countrySlug": "laos",
+    "countryName": "Laos",
+    "slug": "laos-capital",
+    "name": "Vientiane",
+    "type": "capital"
+  },
+  {
+    "code": "la",
+    "countrySlug": "laos",
+    "countryName": "Laos",
+    "slug": "luang-prabang-la",
+    "name": "Luang Prabang",
+    "type": "major"
+  },
+  {
+    "code": "la",
+    "countrySlug": "laos",
+    "countryName": "Laos",
+    "slug": "savannakhet-la",
+    "name": "Savannakhet",
+    "type": "major"
+  },
+  {
+    "code": "lv",
+    "countrySlug": "latvia",
+    "countryName": "Latvia",
+    "slug": "latvia-capital",
+    "name": "Riga",
+    "type": "capital"
+  },
+  {
+    "code": "lv",
+    "countrySlug": "latvia",
+    "countryName": "Latvia",
+    "slug": "daugavpils-lv",
+    "name": "Daugavpils",
+    "type": "major"
+  },
+  {
+    "code": "lv",
+    "countrySlug": "latvia",
+    "countryName": "Latvia",
+    "slug": "liep-ja-lv",
+    "name": "Liepāja",
+    "type": "major"
+  },
+  {
+    "code": "lb",
+    "countrySlug": "lebanon",
+    "countryName": "Lebanon",
+    "slug": "lebanon-capital",
+    "name": "Beirut",
+    "type": "capital"
+  },
+  {
+    "code": "lb",
+    "countrySlug": "lebanon",
+    "countryName": "Lebanon",
+    "slug": "tripoli-lb",
+    "name": "Tripoli",
+    "type": "major"
+  },
+  {
+    "code": "lb",
+    "countrySlug": "lebanon",
+    "countryName": "Lebanon",
+    "slug": "sidon-lb",
+    "name": "Sidon",
+    "type": "major"
+  },
+  {
+    "code": "ls",
+    "countrySlug": "lesotho",
+    "countryName": "Lesotho",
+    "slug": "lesotho-capital",
+    "name": "Maseru",
+    "type": "capital"
+  },
+  {
+    "code": "lr",
+    "countrySlug": "liberia",
+    "countryName": "Liberia",
+    "slug": "liberia-capital",
+    "name": "Monrovia",
+    "type": "capital"
+  },
+  {
+    "code": "ly",
+    "countrySlug": "libya",
+    "countryName": "Libya",
+    "slug": "libya-capital",
+    "name": "Tripoli",
+    "type": "capital"
+  },
+  {
+    "code": "ly",
+    "countrySlug": "libya",
+    "countryName": "Libya",
+    "slug": "benghazi-ly",
+    "name": "Benghazi",
+    "type": "major"
+  },
+  {
+    "code": "ly",
+    "countrySlug": "libya",
+    "countryName": "Libya",
+    "slug": "misrata-ly",
+    "name": "Misrata",
+    "type": "major"
+  },
+  {
+    "code": "li",
+    "countrySlug": "liechtenstein",
+    "countryName": "Liechtenstein",
+    "slug": "liechtenstein-capital",
+    "name": "Vaduz",
+    "type": "capital"
+  },
+  {
+    "code": "li",
+    "countrySlug": "liechtenstein",
+    "countryName": "Liechtenstein",
+    "slug": "schaan-li",
+    "name": "Schaan",
+    "type": "major"
+  },
+  {
+    "code": "lt",
+    "countrySlug": "lithuania",
+    "countryName": "Lithuania",
+    "slug": "lithuania-capital",
+    "name": "Vilnius",
+    "type": "capital"
+  },
+  {
+    "code": "lt",
+    "countrySlug": "lithuania",
+    "countryName": "Lithuania",
+    "slug": "kaunas-lt",
+    "name": "Kaunas",
+    "type": "major"
+  },
+  {
+    "code": "lt",
+    "countrySlug": "lithuania",
+    "countryName": "Lithuania",
+    "slug": "klaip-da-lt",
+    "name": "Klaipėda",
+    "type": "major"
+  },
+  {
+    "code": "lt",
+    "countrySlug": "lithuania",
+    "countryName": "Lithuania",
+    "slug": "iauliai-lt",
+    "name": "Šiauliai",
+    "type": "major"
+  },
+  {
+    "code": "lu",
+    "countrySlug": "luxembourg",
+    "countryName": "Luxembourg",
+    "slug": "luxembourg-capital",
+    "name": "Luxembourg City",
+    "type": "capital"
+  },
+  {
+    "code": "lu",
+    "countrySlug": "luxembourg",
+    "countryName": "Luxembourg",
+    "slug": "esch-sur-alzette-lu",
+    "name": "Esch-sur-Alzette",
+    "type": "major"
+  },
+  {
+    "code": "mg",
+    "countrySlug": "madagascar",
+    "countryName": "Madagascar",
+    "slug": "madagascar-capital",
+    "name": "Antananarivo",
+    "type": "capital"
+  },
+  {
+    "code": "mg",
+    "countrySlug": "madagascar",
+    "countryName": "Madagascar",
+    "slug": "toamasina-mg",
+    "name": "Toamasina",
+    "type": "major"
+  },
+  {
+    "code": "mg",
+    "countrySlug": "madagascar",
+    "countryName": "Madagascar",
+    "slug": "antsirabe-mg",
+    "name": "Antsirabe",
+    "type": "major"
+  },
+  {
+    "code": "mw",
+    "countrySlug": "malawi",
+    "countryName": "Malawi",
+    "slug": "malawi-capital",
+    "name": "Lilongwe",
+    "type": "capital"
+  },
+  {
+    "code": "mw",
+    "countrySlug": "malawi",
+    "countryName": "Malawi",
+    "slug": "blantyre-mw",
+    "name": "Blantyre",
+    "type": "major"
+  },
+  {
+    "code": "mw",
+    "countrySlug": "malawi",
+    "countryName": "Malawi",
+    "slug": "mzuzu-mw",
+    "name": "Mzuzu",
+    "type": "major"
+  },
+  {
+    "code": "my",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "slug": "malaysia-capital",
+    "name": "Kuala Lumpur",
+    "type": "capital"
+  },
+  {
+    "code": "my",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "slug": "george-town-my",
+    "name": "George Town",
+    "type": "major"
+  },
+  {
+    "code": "my",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "slug": "johor-bahru-my",
+    "name": "Johor Bahru",
+    "type": "major"
+  },
+  {
+    "code": "my",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "slug": "ipoh-my",
+    "name": "Ipoh",
+    "type": "major"
+  },
+  {
+    "code": "my",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "slug": "shah-alam-my",
+    "name": "Shah Alam",
+    "type": "major"
+  },
+  {
+    "code": "mv",
+    "countrySlug": "maldives",
+    "countryName": "Maldives",
+    "slug": "maldives-capital",
+    "name": "Malé",
+    "type": "capital"
+  },
+  {
+    "code": "ml",
+    "countrySlug": "mali",
+    "countryName": "Mali",
+    "slug": "mali-capital",
+    "name": "Bamako",
+    "type": "capital"
+  },
+  {
+    "code": "ml",
+    "countrySlug": "mali",
+    "countryName": "Mali",
+    "slug": "sikasso-ml",
+    "name": "Sikasso",
+    "type": "major"
+  },
+  {
+    "code": "mt",
+    "countrySlug": "malta",
+    "countryName": "Malta",
+    "slug": "malta-capital",
+    "name": "Valletta",
+    "type": "capital"
+  },
+  {
+    "code": "mt",
+    "countrySlug": "malta",
+    "countryName": "Malta",
+    "slug": "birkirkara-mt",
+    "name": "Birkirkara",
+    "type": "major"
+  },
+  {
+    "code": "mt",
+    "countrySlug": "malta",
+    "countryName": "Malta",
+    "slug": "mosta-mt",
+    "name": "Mosta",
+    "type": "major"
+  },
+  {
+    "code": "mh",
+    "countrySlug": "marshall-islands",
+    "countryName": "Marshall Islands",
+    "slug": "marshall-islands-capital",
+    "name": "Majuro",
+    "type": "capital"
+  },
+  {
+    "code": "mr",
+    "countrySlug": "mauritania",
+    "countryName": "Mauritania",
+    "slug": "mauritania-capital",
+    "name": "Nouakchott",
+    "type": "capital"
+  },
+  {
+    "code": "mr",
+    "countrySlug": "mauritania",
+    "countryName": "Mauritania",
+    "slug": "nouadhibou-mr",
+    "name": "Nouadhibou",
+    "type": "major"
+  },
+  {
+    "code": "mu",
+    "countrySlug": "mauritius",
+    "countryName": "Mauritius",
+    "slug": "mauritius-capital",
+    "name": "Port Louis",
+    "type": "capital"
+  },
+  {
+    "code": "mu",
+    "countrySlug": "mauritius",
+    "countryName": "Mauritius",
+    "slug": "curepipe-mu",
+    "name": "Curepipe",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "mexico-capital",
+    "name": "Mexico City",
+    "type": "capital"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "guadalajara-mx",
+    "name": "Guadalajara",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "monterrey-mx",
+    "name": "Monterrey",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "puebla-mx",
+    "name": "Puebla",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "tijuana-mx",
+    "name": "Tijuana",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "le-n-mx",
+    "name": "León",
+    "type": "major"
+  },
+  {
+    "code": "mx",
+    "countrySlug": "mexico",
+    "countryName": "Mexico",
+    "slug": "canc-n-mx",
+    "name": "Cancún",
+    "type": "major"
+  },
+  {
+    "code": "fm",
+    "countrySlug": "micronesia",
+    "countryName": "Micronesia",
+    "slug": "micronesia-capital",
+    "name": "Palikir",
+    "type": "capital"
+  },
+  {
+    "code": "md",
+    "countrySlug": "moldova",
+    "countryName": "Moldova",
+    "slug": "moldova-capital",
+    "name": "Chișinău",
+    "type": "capital"
+  },
+  {
+    "code": "md",
+    "countrySlug": "moldova",
+    "countryName": "Moldova",
+    "slug": "b-l-i-md",
+    "name": "Bălți",
+    "type": "major"
+  },
+  {
+    "code": "md",
+    "countrySlug": "moldova",
+    "countryName": "Moldova",
+    "slug": "tiraspol-md",
+    "name": "Tiraspol",
+    "type": "major"
+  },
+  {
+    "code": "mc",
+    "countrySlug": "monaco",
+    "countryName": "Monaco",
+    "slug": "monaco-capital",
+    "name": "Monaco",
+    "type": "capital"
+  },
+  {
+    "code": "mn",
+    "countrySlug": "mongolia",
+    "countryName": "Mongolia",
+    "slug": "mongolia-capital",
+    "name": "Ulaanbaatar",
+    "type": "capital"
+  },
+  {
+    "code": "mn",
+    "countrySlug": "mongolia",
+    "countryName": "Mongolia",
+    "slug": "darkhan-mn",
+    "name": "Darkhan",
+    "type": "major"
+  },
+  {
+    "code": "mn",
+    "countrySlug": "mongolia",
+    "countryName": "Mongolia",
+    "slug": "erdenet-mn",
+    "name": "Erdenet",
+    "type": "major"
+  },
+  {
+    "code": "me",
+    "countrySlug": "montenegro",
+    "countryName": "Montenegro",
+    "slug": "montenegro-capital",
+    "name": "Podgorica",
+    "type": "capital"
+  },
+  {
+    "code": "me",
+    "countrySlug": "montenegro",
+    "countryName": "Montenegro",
+    "slug": "nik-i-me",
+    "name": "Nikšić",
+    "type": "major"
+  },
+  {
+    "code": "me",
+    "countrySlug": "montenegro",
+    "countryName": "Montenegro",
+    "slug": "bar-me",
+    "name": "Bar",
+    "type": "major"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "morocco-capital",
+    "name": "Rabat",
+    "type": "capital"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "casablanca-ma",
+    "name": "Casablanca",
+    "type": "major"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "marrakech-ma",
+    "name": "Marrakech",
+    "type": "major"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "fez-ma",
+    "name": "Fez",
+    "type": "major"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "tangier-ma",
+    "name": "Tangier",
+    "type": "major"
+  },
+  {
+    "code": "ma",
+    "countrySlug": "morocco",
+    "countryName": "Morocco",
+    "slug": "agadir-ma",
+    "name": "Agadir",
+    "type": "major"
+  },
+  {
+    "code": "mz",
+    "countrySlug": "mozambique",
+    "countryName": "Mozambique",
+    "slug": "mozambique-capital",
+    "name": "Maputo",
+    "type": "capital"
+  },
+  {
+    "code": "mz",
+    "countrySlug": "mozambique",
+    "countryName": "Mozambique",
+    "slug": "matola-mz",
+    "name": "Matola",
+    "type": "major"
+  },
+  {
+    "code": "mz",
+    "countrySlug": "mozambique",
+    "countryName": "Mozambique",
+    "slug": "beira-mz",
+    "name": "Beira",
+    "type": "major"
+  },
+  {
+    "code": "mz",
+    "countrySlug": "mozambique",
+    "countryName": "Mozambique",
+    "slug": "nampula-mz",
+    "name": "Nampula",
+    "type": "major"
+  },
+  {
+    "code": "mm",
+    "countrySlug": "myanmar",
+    "countryName": "Myanmar",
+    "slug": "myanmar-capital",
+    "name": "Naypyidaw",
+    "type": "capital"
+  },
+  {
+    "code": "mm",
+    "countrySlug": "myanmar",
+    "countryName": "Myanmar",
+    "slug": "yangon-mm",
+    "name": "Yangon",
+    "type": "major"
+  },
+  {
+    "code": "mm",
+    "countrySlug": "myanmar",
+    "countryName": "Myanmar",
+    "slug": "mandalay-mm",
+    "name": "Mandalay",
+    "type": "major"
+  },
+  {
+    "code": "na",
+    "countrySlug": "namibia",
+    "countryName": "Namibia",
+    "slug": "namibia-capital",
+    "name": "Windhoek",
+    "type": "capital"
+  },
+  {
+    "code": "na",
+    "countrySlug": "namibia",
+    "countryName": "Namibia",
+    "slug": "walvis-bay-na",
+    "name": "Walvis Bay",
+    "type": "major"
+  },
+  {
+    "code": "nr",
+    "countrySlug": "nauru",
+    "countryName": "Nauru",
+    "slug": "nauru-capital",
+    "name": "Yaren",
+    "type": "capital"
+  },
+  {
+    "code": "np",
+    "countrySlug": "nepal",
+    "countryName": "Nepal",
+    "slug": "nepal-capital",
+    "name": "Kathmandu",
+    "type": "capital"
+  },
+  {
+    "code": "np",
+    "countrySlug": "nepal",
+    "countryName": "Nepal",
+    "slug": "pokhara-np",
+    "name": "Pokhara",
+    "type": "major"
+  },
+  {
+    "code": "np",
+    "countrySlug": "nepal",
+    "countryName": "Nepal",
+    "slug": "lalitpur-np",
+    "name": "Lalitpur",
+    "type": "major"
+  },
+  {
+    "code": "np",
+    "countrySlug": "nepal",
+    "countryName": "Nepal",
+    "slug": "bharatpur-np",
+    "name": "Bharatpur",
+    "type": "major"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "netherlands-capital",
+    "name": "Amsterdam",
+    "type": "capital"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "rotterdam-nl",
+    "name": "Rotterdam",
+    "type": "major"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "the-hague-nl",
+    "name": "The Hague",
+    "type": "major"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "utrecht-nl",
+    "name": "Utrecht",
+    "type": "major"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "eindhoven-nl",
+    "name": "Eindhoven",
+    "type": "major"
+  },
+  {
+    "code": "nl",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "slug": "groningen-nl",
+    "name": "Groningen",
+    "type": "major"
+  },
+  {
+    "code": "nz",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "slug": "new-zealand-capital",
+    "name": "Wellington",
+    "type": "capital"
+  },
+  {
+    "code": "nz",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "slug": "auckland-nz",
+    "name": "Auckland",
+    "type": "major"
+  },
+  {
+    "code": "nz",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "slug": "christchurch-nz",
+    "name": "Christchurch",
+    "type": "major"
+  },
+  {
+    "code": "nz",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "slug": "hamilton-nz",
+    "name": "Hamilton",
+    "type": "major"
+  },
+  {
+    "code": "nz",
+    "countrySlug": "new-zealand",
+    "countryName": "New Zealand",
+    "slug": "tauranga-nz",
+    "name": "Tauranga",
+    "type": "major"
+  },
+  {
+    "code": "ni",
+    "countrySlug": "nicaragua",
+    "countryName": "Nicaragua",
+    "slug": "nicaragua-capital",
+    "name": "Managua",
+    "type": "capital"
+  },
+  {
+    "code": "ni",
+    "countrySlug": "nicaragua",
+    "countryName": "Nicaragua",
+    "slug": "le-n-ni",
+    "name": "León",
+    "type": "major"
+  },
+  {
+    "code": "ni",
+    "countrySlug": "nicaragua",
+    "countryName": "Nicaragua",
+    "slug": "granada-ni",
+    "name": "Granada",
+    "type": "major"
+  },
+  {
+    "code": "ne",
+    "countrySlug": "niger",
+    "countryName": "Niger",
+    "slug": "niger-capital",
+    "name": "Niamey",
+    "type": "capital"
+  },
+  {
+    "code": "ne",
+    "countrySlug": "niger",
+    "countryName": "Niger",
+    "slug": "zinder-ne",
+    "name": "Zinder",
+    "type": "major"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "nigeria-capital",
+    "name": "Abuja",
+    "type": "capital"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "lagos-ng",
+    "name": "Lagos",
+    "type": "major"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "kano-ng",
+    "name": "Kano",
+    "type": "major"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "ibadan-ng",
+    "name": "Ibadan",
+    "type": "major"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "port-harcourt-ng",
+    "name": "Port Harcourt",
+    "type": "major"
+  },
+  {
+    "code": "ng",
+    "countrySlug": "nigeria",
+    "countryName": "Nigeria",
+    "slug": "benin-city-ng",
+    "name": "Benin City",
+    "type": "major"
+  },
+  {
+    "code": "mk",
+    "countrySlug": "north-macedonia",
+    "countryName": "North Macedonia",
+    "slug": "north-macedonia-capital",
+    "name": "Skopje",
+    "type": "capital"
+  },
+  {
+    "code": "mk",
+    "countrySlug": "north-macedonia",
+    "countryName": "North Macedonia",
+    "slug": "bitola-mk",
+    "name": "Bitola",
+    "type": "major"
+  },
+  {
+    "code": "mk",
+    "countrySlug": "north-macedonia",
+    "countryName": "North Macedonia",
+    "slug": "ohrid-mk",
+    "name": "Ohrid",
+    "type": "major"
+  },
+  {
+    "code": "no",
+    "countrySlug": "norway",
+    "countryName": "Norway",
+    "slug": "norway-capital",
+    "name": "Oslo",
+    "type": "capital"
+  },
+  {
+    "code": "no",
+    "countrySlug": "norway",
+    "countryName": "Norway",
+    "slug": "bergen-no",
+    "name": "Bergen",
+    "type": "major"
+  },
+  {
+    "code": "no",
+    "countrySlug": "norway",
+    "countryName": "Norway",
+    "slug": "trondheim-no",
+    "name": "Trondheim",
+    "type": "major"
+  },
+  {
+    "code": "no",
+    "countrySlug": "norway",
+    "countryName": "Norway",
+    "slug": "stavanger-no",
+    "name": "Stavanger",
+    "type": "major"
+  },
+  {
+    "code": "no",
+    "countrySlug": "norway",
+    "countryName": "Norway",
+    "slug": "drammen-no",
+    "name": "Drammen",
+    "type": "major"
+  },
+  {
+    "code": "om",
+    "countrySlug": "oman",
+    "countryName": "Oman",
+    "slug": "oman-capital",
+    "name": "Muscat",
+    "type": "capital"
+  },
+  {
+    "code": "om",
+    "countrySlug": "oman",
+    "countryName": "Oman",
+    "slug": "salalah-om",
+    "name": "Salalah",
+    "type": "major"
+  },
+  {
+    "code": "om",
+    "countrySlug": "oman",
+    "countryName": "Oman",
+    "slug": "sohar-om",
+    "name": "Sohar",
+    "type": "major"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "pakistan-capital",
+    "name": "Islamabad",
+    "type": "capital"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "karachi-pk",
+    "name": "Karachi",
+    "type": "major"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "lahore-pk",
+    "name": "Lahore",
+    "type": "major"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "faisalabad-pk",
+    "name": "Faisalabad",
+    "type": "major"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "rawalpindi-pk",
+    "name": "Rawalpindi",
+    "type": "major"
+  },
+  {
+    "code": "pk",
+    "countrySlug": "pakistan",
+    "countryName": "Pakistan",
+    "slug": "multan-pk",
+    "name": "Multan",
+    "type": "major"
+  },
+  {
+    "code": "pw",
+    "countrySlug": "palau",
+    "countryName": "Palau",
+    "slug": "palau-capital",
+    "name": "Ngerulmud",
+    "type": "capital"
+  },
+  {
+    "code": "pw",
+    "countrySlug": "palau",
+    "countryName": "Palau",
+    "slug": "koror-pw",
+    "name": "Koror",
+    "type": "major"
+  },
+  {
+    "code": "ps",
+    "countrySlug": "palestine",
+    "countryName": "Palestine",
+    "slug": "palestine-capital",
+    "name": "Ramallah",
+    "type": "capital"
+  },
+  {
+    "code": "ps",
+    "countrySlug": "palestine",
+    "countryName": "Palestine",
+    "slug": "gaza-city-ps",
+    "name": "Gaza City",
+    "type": "major"
+  },
+  {
+    "code": "ps",
+    "countrySlug": "palestine",
+    "countryName": "Palestine",
+    "slug": "hebron-ps",
+    "name": "Hebron",
+    "type": "major"
+  },
+  {
+    "code": "pa",
+    "countrySlug": "panama",
+    "countryName": "Panama",
+    "slug": "panama-capital",
+    "name": "Panama City",
+    "type": "capital"
+  },
+  {
+    "code": "pa",
+    "countrySlug": "panama",
+    "countryName": "Panama",
+    "slug": "col-n-pa",
+    "name": "Colón",
+    "type": "major"
+  },
+  {
+    "code": "pa",
+    "countrySlug": "panama",
+    "countryName": "Panama",
+    "slug": "david-pa",
+    "name": "David",
+    "type": "major"
+  },
+  {
+    "code": "pg",
+    "countrySlug": "papua-new-guinea",
+    "countryName": "Papua New Guinea",
+    "slug": "papua-new-guinea-capital",
+    "name": "Port Moresby",
+    "type": "capital"
+  },
+  {
+    "code": "pg",
+    "countrySlug": "papua-new-guinea",
+    "countryName": "Papua New Guinea",
+    "slug": "lae-pg",
+    "name": "Lae",
+    "type": "major"
+  },
+  {
+    "code": "py",
+    "countrySlug": "paraguay",
+    "countryName": "Paraguay",
+    "slug": "paraguay-capital",
+    "name": "Asunción",
+    "type": "capital"
+  },
+  {
+    "code": "py",
+    "countrySlug": "paraguay",
+    "countryName": "Paraguay",
+    "slug": "ciudad-del-este-py",
+    "name": "Ciudad del Este",
+    "type": "major"
+  },
+  {
+    "code": "py",
+    "countrySlug": "paraguay",
+    "countryName": "Paraguay",
+    "slug": "encarnaci-n-py",
+    "name": "Encarnación",
+    "type": "major"
+  },
+  {
+    "code": "pe",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "slug": "peru-capital",
+    "name": "Lima",
+    "type": "capital"
+  },
+  {
+    "code": "pe",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "slug": "arequipa-pe",
+    "name": "Arequipa",
+    "type": "major"
+  },
+  {
+    "code": "pe",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "slug": "cusco-pe",
+    "name": "Cusco",
+    "type": "major"
+  },
+  {
+    "code": "pe",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "slug": "trujillo-pe",
+    "name": "Trujillo",
+    "type": "major"
+  },
+  {
+    "code": "pe",
+    "countrySlug": "peru",
+    "countryName": "Peru",
+    "slug": "chiclayo-pe",
+    "name": "Chiclayo",
+    "type": "major"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "philippines-capital",
+    "name": "Manila",
+    "type": "capital"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "quezon-city-ph",
+    "name": "Quezon City",
+    "type": "major"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "davao-city-ph",
+    "name": "Davao City",
+    "type": "major"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "cebu-city-ph",
+    "name": "Cebu City",
+    "type": "major"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "zamboanga-city-ph",
+    "name": "Zamboanga City",
+    "type": "major"
+  },
+  {
+    "code": "ph",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "slug": "bacolod-ph",
+    "name": "Bacolod",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "poland-capital",
+    "name": "Warsaw",
+    "type": "capital"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "krak-w-pl",
+    "name": "Kraków",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "d-pl",
+    "name": "Łódź",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "wroc-aw-pl",
+    "name": "Wrocław",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "pozna-pl",
+    "name": "Poznań",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "gda-sk-pl",
+    "name": "Gdańsk",
+    "type": "major"
+  },
+  {
+    "code": "pl",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "slug": "szczecin-pl",
+    "name": "Szczecin",
+    "type": "major"
+  },
+  {
+    "code": "pt",
+    "countrySlug": "portugal",
+    "countryName": "Portugal",
+    "slug": "portugal-capital",
+    "name": "Lisbon",
+    "type": "capital"
+  },
+  {
+    "code": "pt",
+    "countrySlug": "portugal",
+    "countryName": "Portugal",
+    "slug": "porto-pt",
+    "name": "Porto",
+    "type": "major"
+  },
+  {
+    "code": "pt",
+    "countrySlug": "portugal",
+    "countryName": "Portugal",
+    "slug": "braga-pt",
+    "name": "Braga",
+    "type": "major"
+  },
+  {
+    "code": "pt",
+    "countrySlug": "portugal",
+    "countryName": "Portugal",
+    "slug": "coimbra-pt",
+    "name": "Coimbra",
+    "type": "major"
+  },
+  {
+    "code": "pt",
+    "countrySlug": "portugal",
+    "countryName": "Portugal",
+    "slug": "funchal-pt",
+    "name": "Funchal",
+    "type": "major"
+  },
+  {
+    "code": "qa",
+    "countrySlug": "qatar",
+    "countryName": "Qatar",
+    "slug": "qatar-capital",
+    "name": "Doha",
+    "type": "capital"
+  },
+  {
+    "code": "qa",
+    "countrySlug": "qatar",
+    "countryName": "Qatar",
+    "slug": "al-rayyan-qa",
+    "name": "Al Rayyan",
+    "type": "major"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "romania-capital",
+    "name": "Bucharest",
+    "type": "capital"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "cluj-napoca-ro",
+    "name": "Cluj-Napoca",
+    "type": "major"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "timi-oara-ro",
+    "name": "Timișoara",
+    "type": "major"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "ia-i-ro",
+    "name": "Iași",
+    "type": "major"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "constan-a-ro",
+    "name": "Constanța",
+    "type": "major"
+  },
+  {
+    "code": "ro",
+    "countrySlug": "romania",
+    "countryName": "Romania",
+    "slug": "bra-ov-ro",
+    "name": "Brașov",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "russia-capital",
+    "name": "Moscow",
+    "type": "capital"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "saint-petersburg-ru",
+    "name": "Saint Petersburg",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "novosibirsk-ru",
+    "name": "Novosibirsk",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "yekaterinburg-ru",
+    "name": "Yekaterinburg",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "kazan-ru",
+    "name": "Kazan",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "nizhny-novgorod-ru",
+    "name": "Nizhny Novgorod",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "chelyabinsk-ru",
+    "name": "Chelyabinsk",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "samara-ru",
+    "name": "Samara",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "omsk-ru",
+    "name": "Omsk",
+    "type": "major"
+  },
+  {
+    "code": "ru",
+    "countrySlug": "russia",
+    "countryName": "Russia",
+    "slug": "rostov-on-don-ru",
+    "name": "Rostov-on-Don",
+    "type": "major"
+  },
+  {
+    "code": "rw",
+    "countrySlug": "rwanda",
+    "countryName": "Rwanda",
+    "slug": "rwanda-capital",
+    "name": "Kigali",
+    "type": "capital"
+  },
+  {
+    "code": "rw",
+    "countrySlug": "rwanda",
+    "countryName": "Rwanda",
+    "slug": "butare-rw",
+    "name": "Butare",
+    "type": "major"
+  },
+  {
+    "code": "kn",
+    "countrySlug": "saint-kitts-and-nevis",
+    "countryName": "Saint Kitts and Nevis",
+    "slug": "saint-kitts-and-nevis-capital",
+    "name": "Basseterre",
+    "type": "capital"
+  },
+  {
+    "code": "lc",
+    "countrySlug": "saint-lucia",
+    "countryName": "Saint Lucia",
+    "slug": "saint-lucia-capital",
+    "name": "Castries",
+    "type": "capital"
+  },
+  {
+    "code": "vc",
+    "countrySlug": "saint-vincent-and-the-grenadines",
+    "countryName": "Saint Vincent and the Grenadines",
+    "slug": "saint-vincent-and-the-grenadines-capital",
+    "name": "Kingstown",
+    "type": "capital"
+  },
+  {
+    "code": "ws",
+    "countrySlug": "samoa",
+    "countryName": "Samoa",
+    "slug": "samoa-capital",
+    "name": "Apia",
+    "type": "capital"
+  },
+  {
+    "code": "sm",
+    "countrySlug": "san-marino",
+    "countryName": "San Marino",
+    "slug": "san-marino-capital",
+    "name": "San Marino",
+    "type": "capital"
+  },
+  {
+    "code": "st",
+    "countrySlug": "sao-tome-and-principe",
+    "countryName": "Sao Tome and Principe",
+    "slug": "sao-tome-and-principe-capital",
+    "name": "São Tomé",
+    "type": "capital"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "saudi-arabia-capital",
+    "name": "Riyadh",
+    "type": "capital"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "jeddah-sa",
+    "name": "Jeddah",
+    "type": "major"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "mecca-sa",
+    "name": "Mecca",
+    "type": "major"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "medina-sa",
+    "name": "Medina",
+    "type": "major"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "dammam-sa",
+    "name": "Dammam",
+    "type": "major"
+  },
+  {
+    "code": "sa",
+    "countrySlug": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "slug": "khobar-sa",
+    "name": "Khobar",
+    "type": "major"
+  },
+  {
+    "code": "sn",
+    "countrySlug": "senegal",
+    "countryName": "Senegal",
+    "slug": "senegal-capital",
+    "name": "Dakar",
+    "type": "capital"
+  },
+  {
+    "code": "sn",
+    "countrySlug": "senegal",
+    "countryName": "Senegal",
+    "slug": "thi-s-sn",
+    "name": "Thiès",
+    "type": "major"
+  },
+  {
+    "code": "sn",
+    "countrySlug": "senegal",
+    "countryName": "Senegal",
+    "slug": "saint-louis-sn",
+    "name": "Saint-Louis",
+    "type": "major"
+  },
+  {
+    "code": "rs",
+    "countrySlug": "serbia",
+    "countryName": "Serbia",
+    "slug": "serbia-capital",
+    "name": "Belgrade",
+    "type": "capital"
+  },
+  {
+    "code": "rs",
+    "countrySlug": "serbia",
+    "countryName": "Serbia",
+    "slug": "novi-sad-rs",
+    "name": "Novi Sad",
+    "type": "major"
+  },
+  {
+    "code": "rs",
+    "countrySlug": "serbia",
+    "countryName": "Serbia",
+    "slug": "ni-rs",
+    "name": "Niš",
+    "type": "major"
+  },
+  {
+    "code": "rs",
+    "countrySlug": "serbia",
+    "countryName": "Serbia",
+    "slug": "kragujevac-rs",
+    "name": "Kragujevac",
+    "type": "major"
+  },
+  {
+    "code": "sc",
+    "countrySlug": "seychelles",
+    "countryName": "Seychelles",
+    "slug": "seychelles-capital",
+    "name": "Victoria",
+    "type": "capital"
+  },
+  {
+    "code": "sl",
+    "countrySlug": "sierra-leone",
+    "countryName": "Sierra Leone",
+    "slug": "sierra-leone-capital",
+    "name": "Freetown",
+    "type": "capital"
+  },
+  {
+    "code": "sl",
+    "countrySlug": "sierra-leone",
+    "countryName": "Sierra Leone",
+    "slug": "bo-sl",
+    "name": "Bo",
+    "type": "major"
+  },
+  {
+    "code": "sg",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "slug": "singapore-capital",
+    "name": "Singapore",
+    "type": "capital"
+  },
+  {
+    "code": "sk",
+    "countrySlug": "slovakia",
+    "countryName": "Slovakia",
+    "slug": "slovakia-capital",
+    "name": "Bratislava",
+    "type": "capital"
+  },
+  {
+    "code": "sk",
+    "countrySlug": "slovakia",
+    "countryName": "Slovakia",
+    "slug": "ko-ice-sk",
+    "name": "Košice",
+    "type": "major"
+  },
+  {
+    "code": "sk",
+    "countrySlug": "slovakia",
+    "countryName": "Slovakia",
+    "slug": "pre-ov-sk",
+    "name": "Prešov",
+    "type": "major"
+  },
+  {
+    "code": "si",
+    "countrySlug": "slovenia",
+    "countryName": "Slovenia",
+    "slug": "slovenia-capital",
+    "name": "Ljubljana",
+    "type": "capital"
+  },
+  {
+    "code": "si",
+    "countrySlug": "slovenia",
+    "countryName": "Slovenia",
+    "slug": "maribor-si",
+    "name": "Maribor",
+    "type": "major"
+  },
+  {
+    "code": "si",
+    "countrySlug": "slovenia",
+    "countryName": "Slovenia",
+    "slug": "celje-si",
+    "name": "Celje",
+    "type": "major"
+  },
+  {
+    "code": "sb",
+    "countrySlug": "solomon-islands",
+    "countryName": "Solomon Islands",
+    "slug": "solomon-islands-capital",
+    "name": "Honiara",
+    "type": "capital"
+  },
+  {
+    "code": "so",
+    "countrySlug": "somalia",
+    "countryName": "Somalia",
+    "slug": "somalia-capital",
+    "name": "Mogadishu",
+    "type": "capital"
+  },
+  {
+    "code": "so",
+    "countrySlug": "somalia",
+    "countryName": "Somalia",
+    "slug": "hargeisa-so",
+    "name": "Hargeisa",
+    "type": "major"
+  },
+  {
+    "code": "so",
+    "countrySlug": "somalia",
+    "countryName": "Somalia",
+    "slug": "kismayo-so",
+    "name": "Kismayo",
+    "type": "major"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "south-africa-capital",
+    "name": "Pretoria",
+    "type": "capital"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "johannesburg-za",
+    "name": "Johannesburg",
+    "type": "major"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "cape-town-za",
+    "name": "Cape Town",
+    "type": "major"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "durban-za",
+    "name": "Durban",
+    "type": "major"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "port-elizabeth-za",
+    "name": "Port Elizabeth",
+    "type": "major"
+  },
+  {
+    "code": "za",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "slug": "bloemfontein-za",
+    "name": "Bloemfontein",
+    "type": "major"
+  },
+  {
+    "code": "ss",
+    "countrySlug": "south-sudan",
+    "countryName": "South Sudan",
+    "slug": "south-sudan-capital",
+    "name": "Juba",
+    "type": "capital"
+  },
+  {
+    "code": "ss",
+    "countrySlug": "south-sudan",
+    "countryName": "South Sudan",
+    "slug": "malakal-ss",
+    "name": "Malakal",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "spain-capital",
+    "name": "Madrid",
+    "type": "capital"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "barcelona-es",
+    "name": "Barcelona",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "valencia-es",
+    "name": "Valencia",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "seville-es",
+    "name": "Seville",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "bilbao-es",
+    "name": "Bilbao",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "m-laga-es",
+    "name": "Málaga",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "zaragoza-es",
+    "name": "Zaragoza",
+    "type": "major"
+  },
+  {
+    "code": "es",
+    "countrySlug": "spain",
+    "countryName": "Spain",
+    "slug": "palma-es",
+    "name": "Palma",
+    "type": "major"
+  },
+  {
+    "code": "lk",
+    "countrySlug": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "slug": "sri-lanka-capital",
+    "name": "Sri Jayawardenepura Kotte",
+    "type": "capital"
+  },
+  {
+    "code": "lk",
+    "countrySlug": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "slug": "colombo-lk",
+    "name": "Colombo",
+    "type": "major"
+  },
+  {
+    "code": "lk",
+    "countrySlug": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "slug": "kandy-lk",
+    "name": "Kandy",
+    "type": "major"
+  },
+  {
+    "code": "lk",
+    "countrySlug": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "slug": "galle-lk",
+    "name": "Galle",
+    "type": "major"
+  },
+  {
+    "code": "sd",
+    "countrySlug": "sudan",
+    "countryName": "Sudan",
+    "slug": "sudan-capital",
+    "name": "Khartoum",
+    "type": "capital"
+  },
+  {
+    "code": "sd",
+    "countrySlug": "sudan",
+    "countryName": "Sudan",
+    "slug": "omdurman-sd",
+    "name": "Omdurman",
+    "type": "major"
+  },
+  {
+    "code": "sd",
+    "countrySlug": "sudan",
+    "countryName": "Sudan",
+    "slug": "port-sudan-sd",
+    "name": "Port Sudan",
+    "type": "major"
+  },
+  {
+    "code": "sr",
+    "countrySlug": "suriname",
+    "countryName": "Suriname",
+    "slug": "suriname-capital",
+    "name": "Paramaribo",
+    "type": "capital"
+  },
+  {
+    "code": "se",
+    "countrySlug": "sweden",
+    "countryName": "Sweden",
+    "slug": "sweden-capital",
+    "name": "Stockholm",
+    "type": "capital"
+  },
+  {
+    "code": "se",
+    "countrySlug": "sweden",
+    "countryName": "Sweden",
+    "slug": "gothenburg-se",
+    "name": "Gothenburg",
+    "type": "major"
+  },
+  {
+    "code": "se",
+    "countrySlug": "sweden",
+    "countryName": "Sweden",
+    "slug": "malm-se",
+    "name": "Malmö",
+    "type": "major"
+  },
+  {
+    "code": "se",
+    "countrySlug": "sweden",
+    "countryName": "Sweden",
+    "slug": "uppsala-se",
+    "name": "Uppsala",
+    "type": "major"
+  },
+  {
+    "code": "se",
+    "countrySlug": "sweden",
+    "countryName": "Sweden",
+    "slug": "link-ping-se",
+    "name": "Linköping",
+    "type": "major"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "switzerland-capital",
+    "name": "Bern",
+    "type": "capital"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "z-rich-ch",
+    "name": "Zürich",
+    "type": "major"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "geneva-ch",
+    "name": "Geneva",
+    "type": "major"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "basel-ch",
+    "name": "Basel",
+    "type": "major"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "lausanne-ch",
+    "name": "Lausanne",
+    "type": "major"
+  },
+  {
+    "code": "ch",
+    "countrySlug": "switzerland",
+    "countryName": "Switzerland",
+    "slug": "lucerne-ch",
+    "name": "Lucerne",
+    "type": "major"
+  },
+  {
+    "code": "sy",
+    "countrySlug": "syria",
+    "countryName": "Syria",
+    "slug": "syria-capital",
+    "name": "Damascus",
+    "type": "capital"
+  },
+  {
+    "code": "sy",
+    "countrySlug": "syria",
+    "countryName": "Syria",
+    "slug": "aleppo-sy",
+    "name": "Aleppo",
+    "type": "major"
+  },
+  {
+    "code": "sy",
+    "countrySlug": "syria",
+    "countryName": "Syria",
+    "slug": "homs-sy",
+    "name": "Homs",
+    "type": "major"
+  },
+  {
+    "code": "sy",
+    "countrySlug": "syria",
+    "countryName": "Syria",
+    "slug": "latakia-sy",
+    "name": "Latakia",
+    "type": "major"
+  },
+  {
+    "code": "tj",
+    "countrySlug": "tajikistan",
+    "countryName": "Tajikistan",
+    "slug": "tajikistan-capital",
+    "name": "Dushanbe",
+    "type": "capital"
+  },
+  {
+    "code": "tj",
+    "countrySlug": "tajikistan",
+    "countryName": "Tajikistan",
+    "slug": "khujand-tj",
+    "name": "Khujand",
+    "type": "major"
+  },
+  {
+    "code": "tz",
+    "countrySlug": "tanzania",
+    "countryName": "Tanzania",
+    "slug": "tanzania-capital",
+    "name": "Dodoma",
+    "type": "capital"
+  },
+  {
+    "code": "tz",
+    "countrySlug": "tanzania",
+    "countryName": "Tanzania",
+    "slug": "dar-es-salaam-tz",
+    "name": "Dar es Salaam",
+    "type": "major"
+  },
+  {
+    "code": "tz",
+    "countrySlug": "tanzania",
+    "countryName": "Tanzania",
+    "slug": "mwanza-tz",
+    "name": "Mwanza",
+    "type": "major"
+  },
+  {
+    "code": "tz",
+    "countrySlug": "tanzania",
+    "countryName": "Tanzania",
+    "slug": "arusha-tz",
+    "name": "Arusha",
+    "type": "major"
+  },
+  {
+    "code": "tz",
+    "countrySlug": "tanzania",
+    "countryName": "Tanzania",
+    "slug": "zanzibar-city-tz",
+    "name": "Zanzibar City",
+    "type": "major"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "thailand-capital",
+    "name": "Bangkok",
+    "type": "capital"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "chiang-mai-th",
+    "name": "Chiang Mai",
+    "type": "major"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "phuket-th",
+    "name": "Phuket",
+    "type": "major"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "pattaya-th",
+    "name": "Pattaya",
+    "type": "major"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "nonthaburi-th",
+    "name": "Nonthaburi",
+    "type": "major"
+  },
+  {
+    "code": "th",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "slug": "hat-yai-th",
+    "name": "Hat Yai",
+    "type": "major"
+  },
+  {
+    "code": "tl",
+    "countrySlug": "timor-leste",
+    "countryName": "Timor-Leste",
+    "slug": "timor-leste-capital",
+    "name": "Dili",
+    "type": "capital"
+  },
+  {
+    "code": "tg",
+    "countrySlug": "togo",
+    "countryName": "Togo",
+    "slug": "togo-capital",
+    "name": "Lomé",
+    "type": "capital"
+  },
+  {
+    "code": "tg",
+    "countrySlug": "togo",
+    "countryName": "Togo",
+    "slug": "kara-tg",
+    "name": "Kara",
+    "type": "major"
+  },
+  {
+    "code": "to",
+    "countrySlug": "tonga",
+    "countryName": "Tonga",
+    "slug": "tonga-capital",
+    "name": "Nuku'alofa",
+    "type": "capital"
+  },
+  {
+    "code": "tt",
+    "countrySlug": "trinidad-and-tobago",
+    "countryName": "Trinidad and Tobago",
+    "slug": "trinidad-and-tobago-capital",
+    "name": "Port of Spain",
+    "type": "capital"
+  },
+  {
+    "code": "tt",
+    "countrySlug": "trinidad-and-tobago",
+    "countryName": "Trinidad and Tobago",
+    "slug": "san-fernando-tt",
+    "name": "San Fernando",
+    "type": "major"
+  },
+  {
+    "code": "tt",
+    "countrySlug": "trinidad-and-tobago",
+    "countryName": "Trinidad and Tobago",
+    "slug": "chaguanas-tt",
+    "name": "Chaguanas",
+    "type": "major"
+  },
+  {
+    "code": "tn",
+    "countrySlug": "tunisia",
+    "countryName": "Tunisia",
+    "slug": "tunisia-capital",
+    "name": "Tunis",
+    "type": "capital"
+  },
+  {
+    "code": "tn",
+    "countrySlug": "tunisia",
+    "countryName": "Tunisia",
+    "slug": "sfax-tn",
+    "name": "Sfax",
+    "type": "major"
+  },
+  {
+    "code": "tn",
+    "countrySlug": "tunisia",
+    "countryName": "Tunisia",
+    "slug": "sousse-tn",
+    "name": "Sousse",
+    "type": "major"
+  },
+  {
+    "code": "tn",
+    "countrySlug": "tunisia",
+    "countryName": "Tunisia",
+    "slug": "gab-s-tn",
+    "name": "Gabès",
+    "type": "major"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "turkey-capital",
+    "name": "Ankara",
+    "type": "capital"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "istanbul-tr",
+    "name": "Istanbul",
+    "type": "major"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "izmir-tr",
+    "name": "Izmir",
+    "type": "major"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "bursa-tr",
+    "name": "Bursa",
+    "type": "major"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "antalya-tr",
+    "name": "Antalya",
+    "type": "major"
+  },
+  {
+    "code": "tr",
+    "countrySlug": "turkey",
+    "countryName": "Turkey",
+    "slug": "adana-tr",
+    "name": "Adana",
+    "type": "major"
+  },
+  {
+    "code": "tm",
+    "countrySlug": "turkmenistan",
+    "countryName": "Turkmenistan",
+    "slug": "turkmenistan-capital",
+    "name": "Ashgabat",
+    "type": "capital"
+  },
+  {
+    "code": "tm",
+    "countrySlug": "turkmenistan",
+    "countryName": "Turkmenistan",
+    "slug": "turkmenabat-tm",
+    "name": "Turkmenabat",
+    "type": "major"
+  },
+  {
+    "code": "tm",
+    "countrySlug": "turkmenistan",
+    "countryName": "Turkmenistan",
+    "slug": "da-oguz-tm",
+    "name": "Daşoguz",
+    "type": "major"
+  },
+  {
+    "code": "tv",
+    "countrySlug": "tuvalu",
+    "countryName": "Tuvalu",
+    "slug": "tuvalu-capital",
+    "name": "Funafuti",
+    "type": "capital"
+  },
+  {
+    "code": "ug",
+    "countrySlug": "uganda",
+    "countryName": "Uganda",
+    "slug": "uganda-capital",
+    "name": "Kampala",
+    "type": "capital"
+  },
+  {
+    "code": "ug",
+    "countrySlug": "uganda",
+    "countryName": "Uganda",
+    "slug": "gulu-ug",
+    "name": "Gulu",
+    "type": "major"
+  },
+  {
+    "code": "ug",
+    "countrySlug": "uganda",
+    "countryName": "Uganda",
+    "slug": "mbale-ug",
+    "name": "Mbale",
+    "type": "major"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "ukraine-capital",
+    "name": "Kyiv",
+    "type": "capital"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "kharkiv-ua",
+    "name": "Kharkiv",
+    "type": "major"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "odesa-ua",
+    "name": "Odesa",
+    "type": "major"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "dnipro-ua",
+    "name": "Dnipro",
+    "type": "major"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "lviv-ua",
+    "name": "Lviv",
+    "type": "major"
+  },
+  {
+    "code": "ua",
+    "countrySlug": "ukraine",
+    "countryName": "Ukraine",
+    "slug": "zaporizhzhia-ua",
+    "name": "Zaporizhzhia",
+    "type": "major"
+  },
+  {
+    "code": "ae",
+    "countrySlug": "united-arab-emirates",
+    "countryName": "United Arab Emirates",
+    "slug": "united-arab-emirates-capital",
+    "name": "Abu Dhabi",
+    "type": "capital"
+  },
+  {
+    "code": "ae",
+    "countrySlug": "united-arab-emirates",
+    "countryName": "United Arab Emirates",
+    "slug": "dubai-ae",
+    "name": "Dubai",
+    "type": "major"
+  },
+  {
+    "code": "ae",
+    "countrySlug": "united-arab-emirates",
+    "countryName": "United Arab Emirates",
+    "slug": "sharjah-ae",
+    "name": "Sharjah",
+    "type": "major"
+  },
+  {
+    "code": "ae",
+    "countrySlug": "united-arab-emirates",
+    "countryName": "United Arab Emirates",
+    "slug": "ajman-ae",
+    "name": "Ajman",
+    "type": "major"
+  },
+  {
+    "code": "ae",
+    "countrySlug": "united-arab-emirates",
+    "countryName": "United Arab Emirates",
+    "slug": "ras-al-khaimah-ae",
+    "name": "Ras Al Khaimah",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "united-kingdom-capital",
+    "name": "London",
+    "type": "capital"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "manchester-gb",
+    "name": "Manchester",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "birmingham-gb",
+    "name": "Birmingham",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "glasgow-gb",
+    "name": "Glasgow",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "liverpool-gb",
+    "name": "Liverpool",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "edinburgh-gb",
+    "name": "Edinburgh",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "leeds-gb",
+    "name": "Leeds",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "bristol-gb",
+    "name": "Bristol",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "sheffield-gb",
+    "name": "Sheffield",
+    "type": "major"
+  },
+  {
+    "code": "gb",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "slug": "newcastle-gb",
+    "name": "Newcastle",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "united-states-capital",
+    "name": "Washington, D.C.",
+    "type": "capital"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "new-york-city-us",
+    "name": "New York City",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "los-angeles-us",
+    "name": "Los Angeles",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "chicago-us",
+    "name": "Chicago",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "houston-us",
+    "name": "Houston",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "phoenix-us",
+    "name": "Phoenix",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "philadelphia-us",
+    "name": "Philadelphia",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "san-antonio-us",
+    "name": "San Antonio",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "san-diego-us",
+    "name": "San Diego",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "dallas-us",
+    "name": "Dallas",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "san-jose-us",
+    "name": "San Jose",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "austin-us",
+    "name": "Austin",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "jacksonville-us",
+    "name": "Jacksonville",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "fort-worth-us",
+    "name": "Fort Worth",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "columbus-us",
+    "name": "Columbus",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "charlotte-us",
+    "name": "Charlotte",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "indianapolis-us",
+    "name": "Indianapolis",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "san-francisco-us",
+    "name": "San Francisco",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "seattle-us",
+    "name": "Seattle",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "denver-us",
+    "name": "Denver",
+    "type": "major"
+  },
+  {
+    "code": "us",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "slug": "nashville-us",
+    "name": "Nashville",
+    "type": "major"
+  },
+  {
+    "code": "uy",
+    "countrySlug": "uruguay",
+    "countryName": "Uruguay",
+    "slug": "uruguay-capital",
+    "name": "Montevideo",
+    "type": "capital"
+  },
+  {
+    "code": "uy",
+    "countrySlug": "uruguay",
+    "countryName": "Uruguay",
+    "slug": "salto-uy",
+    "name": "Salto",
+    "type": "major"
+  },
+  {
+    "code": "uy",
+    "countrySlug": "uruguay",
+    "countryName": "Uruguay",
+    "slug": "punta-del-este-uy",
+    "name": "Punta del Este",
+    "type": "major"
+  },
+  {
+    "code": "uz",
+    "countrySlug": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "slug": "uzbekistan-capital",
+    "name": "Tashkent",
+    "type": "capital"
+  },
+  {
+    "code": "uz",
+    "countrySlug": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "slug": "samarkand-uz",
+    "name": "Samarkand",
+    "type": "major"
+  },
+  {
+    "code": "uz",
+    "countrySlug": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "slug": "bukhara-uz",
+    "name": "Bukhara",
+    "type": "major"
+  },
+  {
+    "code": "uz",
+    "countrySlug": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "slug": "namangan-uz",
+    "name": "Namangan",
+    "type": "major"
+  },
+  {
+    "code": "vu",
+    "countrySlug": "vanuatu",
+    "countryName": "Vanuatu",
+    "slug": "vanuatu-capital",
+    "name": "Port Vila",
+    "type": "capital"
+  },
+  {
+    "code": "vu",
+    "countrySlug": "vanuatu",
+    "countryName": "Vanuatu",
+    "slug": "luganville-vu",
+    "name": "Luganville",
+    "type": "major"
+  },
+  {
+    "code": "va",
+    "countrySlug": "vatican-city",
+    "countryName": "Vatican City",
+    "slug": "vatican-city-capital",
+    "name": "Vatican City",
+    "type": "capital"
+  },
+  {
+    "code": "ve",
+    "countrySlug": "venezuela",
+    "countryName": "Venezuela",
+    "slug": "venezuela-capital",
+    "name": "Caracas",
+    "type": "capital"
+  },
+  {
+    "code": "ve",
+    "countrySlug": "venezuela",
+    "countryName": "Venezuela",
+    "slug": "maracaibo-ve",
+    "name": "Maracaibo",
+    "type": "major"
+  },
+  {
+    "code": "ve",
+    "countrySlug": "venezuela",
+    "countryName": "Venezuela",
+    "slug": "valencia-ve",
+    "name": "Valencia",
+    "type": "major"
+  },
+  {
+    "code": "ve",
+    "countrySlug": "venezuela",
+    "countryName": "Venezuela",
+    "slug": "barquisimeto-ve",
+    "name": "Barquisimeto",
+    "type": "major"
+  },
+  {
+    "code": "vn",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "slug": "vietnam-capital",
+    "name": "Hanoi",
+    "type": "capital"
+  },
+  {
+    "code": "vn",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "slug": "ho-chi-minh-city-vn",
+    "name": "Ho Chi Minh City",
+    "type": "major"
+  },
+  {
+    "code": "vn",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "slug": "da-nang-vn",
+    "name": "Da Nang",
+    "type": "major"
+  },
+  {
+    "code": "vn",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "slug": "haiphong-vn",
+    "name": "Haiphong",
+    "type": "major"
+  },
+  {
+    "code": "vn",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "slug": "can-tho-vn",
+    "name": "Can Tho",
+    "type": "major"
+  },
+  {
+    "code": "ye",
+    "countrySlug": "yemen",
+    "countryName": "Yemen",
+    "slug": "yemen-capital",
+    "name": "Sana'a",
+    "type": "capital"
+  },
+  {
+    "code": "ye",
+    "countrySlug": "yemen",
+    "countryName": "Yemen",
+    "slug": "aden-ye",
+    "name": "Aden",
+    "type": "major"
+  },
+  {
+    "code": "ye",
+    "countrySlug": "yemen",
+    "countryName": "Yemen",
+    "slug": "taiz-ye",
+    "name": "Taiz",
+    "type": "major"
+  },
+  {
+    "code": "ye",
+    "countrySlug": "yemen",
+    "countryName": "Yemen",
+    "slug": "hodeidah-ye",
+    "name": "Hodeidah",
+    "type": "major"
+  },
+  {
+    "code": "zm",
+    "countrySlug": "zambia",
+    "countryName": "Zambia",
+    "slug": "zambia-capital",
+    "name": "Lusaka",
+    "type": "capital"
+  },
+  {
+    "code": "zm",
+    "countrySlug": "zambia",
+    "countryName": "Zambia",
+    "slug": "kitwe-zm",
+    "name": "Kitwe",
+    "type": "major"
+  },
+  {
+    "code": "zm",
+    "countrySlug": "zambia",
+    "countryName": "Zambia",
+    "slug": "ndola-zm",
+    "name": "Ndola",
+    "type": "major"
+  },
+  {
+    "code": "zw",
+    "countrySlug": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "slug": "zimbabwe-capital",
+    "name": "Harare",
+    "type": "capital"
+  },
+  {
+    "code": "zw",
+    "countrySlug": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "slug": "bulawayo-zw",
+    "name": "Bulawayo",
+    "type": "major"
+  },
+  {
+    "code": "zw",
+    "countrySlug": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "slug": "chitungwiza-zw",
+    "name": "Chitungwiza",
+    "type": "major"
+  }
+]

@@ -1,0 +1,2358 @@
+{
+  "country": "tl",
+  "currency": "USD",
+  "top10": [
+    {
+      "rank": 1,
+      "title": "Surgeons / Doctors",
+      "salaryMin": 1607,
+      "salaryMax": 5257,
+      "description": "Surgeons top the list of the highest paying careers due to the critical nature of their job. A surgeon's profession involves high risk and requires extensive knowledge and a long learning path; the necessary ingredients for a high paying career.",
+      "reasons": [
+        "high risk job",
+        "extensive knowledge",
+        "high perceived value",
+        "revenue generator"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Judges",
+      "salaryMin": 1351,
+      "salaryMax": 4420,
+      "description": "Judges earn quite high salaries because of the huge responsibilities associated with their job. Deciding people's fates is not an easy task and the high wage is perfectly justified.",
+      "reasons": [
+        "high responsibility job",
+        "extensive knowledge"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Lawyers",
+      "salaryMin": 1094,
+      "salaryMax": 3583,
+      "description": "The main reason that lawyers earn big wages is because of their high perceived value in the eyes of their clients. A successful lawyer can save/earn you tons of money or can possibly spare you a death sentence.",
+      "reasons": [
+        "high perceived value",
+        "extensive knowledge",
+        "revenue generator"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Bank Managers",
+      "salaryMin": 1030,
+      "salaryMax": 3371,
+      "description": "Being in charge of hundreds of millions in funds and investments with all the associated risks that come along makes managing a bank an extremely critical task worthy of a large salary.",
+      "reasons": [
+        "high risk",
+        "high responsibility job",
+        "huge impact"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Chief Executive Officers",
+      "salaryMin": 966,
+      "salaryMax": 3159,
+      "description": "CEOs are primarily responsible for the success or failure of complete organizations. Their huge remuneration is due to the vast scope of impact as well as the risks involved.",
+      "reasons": [
+        "widespread impact",
+        "leadership position",
+        "high risk"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Chief Financial Officers",
+      "salaryMin": 901,
+      "salaryMax": 2947,
+      "description": "Any job that is about managing money automatically qualifies for high pay. CFOs manage budgets, spending, costs, and revenue which directly impacts the operations of the organization.",
+      "reasons": [
+        "high risk",
+        "extensive experience",
+        "high responsibility job"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Orthodontists",
+      "salaryMin": 868,
+      "salaryMax": 2846,
+      "description": "Orthodontists operate in an industry where people are willing to pay high costs for a service, which directly makes Orthodontists among the best paying jobs.",
+      "reasons": [
+        "high cost industry",
+        "high level knowledge",
+        "high perceived value",
+        "revenue generator"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "College Professors",
+      "salaryMin": 772,
+      "salaryMax": 2523,
+      "description": "College professors are among the top-earning and most prestigious careers. Becoming a professor is not easy and requires persistence which is partly why they earn so high.",
+      "reasons": [
+        "high level knowledge",
+        "high perceived value",
+        "revenue generator"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Pilots",
+      "salaryMin": 644,
+      "salaryMax": 2110,
+      "description": "Probably the only career on the list that involves some kind of excitement, nevertheless; pilots undergo rigorous training programs and they are responsible for the safety of thousands of people every day.",
+      "reasons": [
+        "high risk",
+        "extensive experience"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Marketing Directors",
+      "salaryMin": 579,
+      "salaryMax": 1898,
+      "description": "Marketing directors are in charge of increasing the revenue of their organizations. They are directly responsible for generating business and they are well paid for that reason.",
+      "reasons": [
+        "revenue generator"
+      ]
+    }
+  ],
+  "jobs": {
+    "ai-machine-learning": [
+      {
+        "rank": 1,
+        "title": "AI Research Scientist",
+        "salaryMin": 2009,
+        "salaryMax": 2009,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Machine Learning Engineer",
+        "salaryMin": 1875,
+        "salaryMax": 1875,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Deep Learning Engineer",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Computer Vision Engineer",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "NLP Engineer",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "AI Product Manager",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Data Scientist",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "AI Ethics Officer",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "ML Operations Engineer",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Business Intelligence Developer",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      }
+    ],
+    "finance-accounting": [
+      {
+        "rank": 1,
+        "title": "Finance Director",
+        "salaryMin": 1864,
+        "salaryMax": 1864,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Financial Manager",
+        "salaryMin": 1775,
+        "salaryMax": 1775,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Investment Advisor",
+        "salaryMin": 1685,
+        "salaryMax": 1685,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Risk Management Director",
+        "salaryMin": 1518,
+        "salaryMax": 1518,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Economist",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Tax Director",
+        "salaryMin": 1462,
+        "salaryMax": 1462,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Audit Director",
+        "salaryMin": 1451,
+        "salaryMax": 1451,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Investment Fund Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Accounting Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Auditing Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      }
+    ],
+    "business-administration": [
+      {
+        "rank": 1,
+        "title": "Chief Executive Officer",
+        "salaryMin": 2009,
+        "salaryMax": 2009,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Chairman of The Board",
+        "salaryMin": 1953,
+        "salaryMax": 1953,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Chief Financial Officer",
+        "salaryMin": 1853,
+        "salaryMax": 1853,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Regional Director",
+        "salaryMin": 1786,
+        "salaryMax": 1786,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Executive Manager",
+        "salaryMin": 1630,
+        "salaryMax": 1630,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Chief Corporate Officer",
+        "salaryMin": 1619,
+        "salaryMax": 1619,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Managing Director",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "General Manager",
+        "salaryMin": 1563,
+        "salaryMax": 1563,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Risk and Capital Manager",
+        "salaryMin": 1518,
+        "salaryMax": 1518,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Chief Operating Officer",
+        "salaryMin": 1507,
+        "salaryMax": 1507,
+        "reasons": []
+      }
+    ],
+    "advertising": [
+      {
+        "rank": 1,
+        "title": "Advertising Sales Director",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Events Director",
+        "salaryMin": 1507,
+        "salaryMax": 1507,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Advertising Manager",
+        "salaryMin": 1440,
+        "salaryMax": 1440,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Product and Brand Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Sales Promotion Manager",
+        "salaryMin": 1395,
+        "salaryMax": 1395,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Media Production Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Media Sales Executive",
+        "salaryMin": 1150,
+        "salaryMax": 1150,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Social Media Manager",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Digital Media Strategist",
+        "salaryMin": 1099,
+        "salaryMax": 1099,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Advertising Account Manager",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      }
+    ],
+    "architecture": [
+      {
+        "rank": 1,
+        "title": "Architectural Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Architecture Consultant",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Assistant Architectural Manager",
+        "salaryMin": 1518,
+        "salaryMax": 1518,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Facilities and Project Manager",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Design Manager",
+        "salaryMin": 1451,
+        "salaryMax": 1451,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Landscape Architect",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Architecture Estimating Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Architect",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Architectural Designer",
+        "salaryMin": 1019,
+        "salaryMax": 1019,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "CAD Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      }
+    ],
+    "automotive": [
+      {
+        "rank": 1,
+        "title": "Regional Manager",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Automotive General Manager",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Automotive Branch Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Automotive Purchase Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Purchasing Project Manager",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Automotive Project Manager",
+        "salaryMin": 1194,
+        "salaryMax": 1194,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Auto Parts Manager",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Automotive Assembly Manager",
+        "salaryMin": 1046,
+        "salaryMax": 1046,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Service Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Used Car Manager",
+        "salaryMin": 899,
+        "salaryMax": 899,
+        "reasons": []
+      }
+    ],
+    "aviation": [
+      {
+        "rank": 1,
+        "title": "Aviation Manager",
+        "salaryMin": 1875,
+        "salaryMax": 1875,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Airport Services Manager",
+        "salaryMin": 1853,
+        "salaryMax": 1853,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Airlines Sales Director",
+        "salaryMin": 1808,
+        "salaryMax": 1808,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Aviation Safety Manager",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Chief Pilot",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Aircraft Pilot",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Fleet Controller",
+        "salaryMin": 1451,
+        "salaryMax": 1451,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Airfield Management Specialist",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Aviation Analyst",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Aerospace Engineer",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      }
+    ],
+    "banking": [
+      {
+        "rank": 1,
+        "title": "International Banking Manager",
+        "salaryMin": 2009,
+        "salaryMax": 2009,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Group Branch Manager",
+        "salaryMin": 1987,
+        "salaryMax": 1987,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Bank Regional Manager",
+        "salaryMin": 1953,
+        "salaryMax": 1953,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Bank Operations Head",
+        "salaryMin": 1920,
+        "salaryMax": 1920,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Capital Risk Manager",
+        "salaryMin": 1864,
+        "salaryMax": 1864,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Credit Portfolio Manager",
+        "salaryMin": 1842,
+        "salaryMax": 1842,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Internal Bank Audit Manager",
+        "salaryMin": 1786,
+        "salaryMax": 1786,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Cash Management Manager",
+        "salaryMin": 1719,
+        "salaryMax": 1719,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Online Banking Manager",
+        "salaryMin": 1641,
+        "salaryMax": 1641,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Mortgage Operations Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      }
+    ],
+    "construction": [
+      {
+        "rank": 1,
+        "title": "Construction Manager",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Construction Project Manager",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Construction Operations Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Site Leader",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Building Contracts Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Tender Manager",
+        "salaryMin": 1217,
+        "salaryMax": 1217,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Building Sales Manager",
+        "salaryMin": 1194,
+        "salaryMax": 1194,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Construction Quality Control Manager",
+        "salaryMin": 1113,
+        "salaryMax": 1113,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Purchasing Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Installation Manager",
+        "salaryMin": 979,
+        "salaryMax": 979,
+        "reasons": []
+      }
+    ],
+    "counseling": [
+      {
+        "rank": 1,
+        "title": "Psychologist",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Director of Rehabilitation Services",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Youth Development Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Guidance Director",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Adoption Services Director",
+        "salaryMin": 1261,
+        "salaryMax": 1261,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Mental Health Counselor",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Supervising Counselor",
+        "salaryMin": 1150,
+        "salaryMax": 1150,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Family Support Specialist",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Youth Care Counselor",
+        "salaryMin": 1127,
+        "salaryMax": 1127,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Employment Counselor",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      }
+    ],
+    "customer-service": [
+      {
+        "rank": 1,
+        "title": "Customer Service Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Service Delivery Manager",
+        "salaryMin": 1183,
+        "salaryMax": 1183,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Regional Account Manager",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Customer Success Manager",
+        "salaryMin": 1099,
+        "salaryMax": 1099,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Call Center Manager",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Client Relationship Executive",
+        "salaryMin": 1046,
+        "salaryMax": 1046,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Operations Support Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Customer Service Executive",
+        "salaryMin": 805,
+        "salaryMax": 805,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Customer Service Team Leader",
+        "salaryMin": 751,
+        "salaryMax": 751,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Customer Service Advisor",
+        "salaryMin": 738,
+        "salaryMax": 738,
+        "reasons": []
+      }
+    ],
+    "education-teaching": [
+      {
+        "rank": 1,
+        "title": "College Dean",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Dean of Faculty",
+        "salaryMin": 1641,
+        "salaryMax": 1641,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Professor",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Lecturer",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Head of School",
+        "salaryMin": 1228,
+        "salaryMax": 1228,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Post Doctoral Researcher",
+        "salaryMin": 1172,
+        "salaryMax": 1172,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Educational Psychologist",
+        "salaryMin": 1161,
+        "salaryMax": 1161,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Academic Manager",
+        "salaryMin": 1127,
+        "salaryMax": 1127,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Clinical School Psychologist",
+        "salaryMin": 1095,
+        "salaryMax": 1095,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Principal",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      }
+    ],
+    "energy": [
+      {
+        "rank": 1,
+        "title": "Operations Manager",
+        "salaryMin": 1875,
+        "salaryMax": 1875,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Geophysicist",
+        "salaryMin": 1507,
+        "salaryMax": 1507,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Engineering Geologist",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Exploration Manager",
+        "salaryMin": 1440,
+        "salaryMax": 1440,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Energy Dispatch Director",
+        "salaryMin": 1418,
+        "salaryMax": 1418,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Geothermal Production Manager",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Mining Project Manager",
+        "salaryMin": 1362,
+        "salaryMax": 1362,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Service Delivery Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Sustainability Specialist",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Energy Advisor",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      }
+    ],
+    "engineering": [
+      {
+        "rank": 1,
+        "title": "Director of Engineering",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Engineering Production Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Field Engineering Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Electrical Engineering Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Engineering Key Account Manager",
+        "salaryMin": 1183,
+        "salaryMax": 1183,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Engineering Project Manager",
+        "salaryMin": 1113,
+        "salaryMax": 1113,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Mechanical Engineering Manager",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Engineering Sales Manager",
+        "salaryMin": 1046,
+        "salaryMax": 1046,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Engineering Consultant",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Chief Engineer",
+        "salaryMin": 986,
+        "salaryMax": 986,
+        "reasons": []
+      }
+    ],
+    "manufacturing": [
+      {
+        "rank": 1,
+        "title": "Production Director",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Director of Manufacturing",
+        "salaryMin": 1507,
+        "salaryMax": 1507,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Industrial Production Manager",
+        "salaryMin": 1451,
+        "salaryMax": 1451,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Operational Excellence General Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Technology Development Manager",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Manufacturing Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Plant Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Product Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Shipping Manager",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Key Account Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      }
+    ],
+    "fitness-sports": [
+      {
+        "rank": 1,
+        "title": "Sports Manager",
+        "salaryMin": 1440,
+        "salaryMax": 1440,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Fitness Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Head Coach",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Head Gymnastics Instructor",
+        "salaryMin": 872,
+        "salaryMax": 872,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Ski Instructor",
+        "salaryMin": 751,
+        "salaryMax": 751,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Assistant Coach",
+        "salaryMin": 738,
+        "salaryMax": 738,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Swim Instructor",
+        "salaryMin": 711,
+        "salaryMax": 711,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Personal Trainer",
+        "salaryMin": 684,
+        "salaryMax": 684,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Game Manager",
+        "salaryMin": 657,
+        "salaryMax": 657,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Fitness Trainer",
+        "salaryMin": 631,
+        "salaryMax": 631,
+        "reasons": []
+      }
+    ],
+    "hospitality": [
+      {
+        "rank": 1,
+        "title": "Hospitality Director",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Hotel Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Fleet Manager",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Cluster Director",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Regional Restaurant Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Assistant Hospitality Manager",
+        "salaryMin": 1217,
+        "salaryMax": 1217,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Hotel Sales Manager",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Food Service Manager",
+        "salaryMin": 1150,
+        "salaryMax": 1150,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Restaurant Manager",
+        "salaryMin": 1086,
+        "salaryMax": 1086,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Room Reservations Manager",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      }
+    ],
+    "healthcare": [
+      {
+        "rank": 1,
+        "title": "Surgeon - Heart Transplant",
+        "salaryMin": 4018,
+        "salaryMax": 4018,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Chief of Surgery",
+        "salaryMin": 3884,
+        "salaryMax": 3884,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Surgeon - Orthopedic",
+        "salaryMin": 3750,
+        "salaryMax": 3750,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Surgeon - Plastic Reconstructive",
+        "salaryMin": 3617,
+        "salaryMax": 3617,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Invasive Cardiologist",
+        "salaryMin": 3572,
+        "salaryMax": 3572,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Surgeon - Neurology",
+        "salaryMin": 3460,
+        "salaryMax": 3460,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Surgeon - Pediatric",
+        "salaryMin": 3125,
+        "salaryMax": 3125,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Urologist",
+        "salaryMin": 2980,
+        "salaryMax": 2980,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Internist",
+        "salaryMin": 2791,
+        "salaryMax": 2791,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Chief of Psychology",
+        "salaryMin": 2657,
+        "salaryMax": 2657,
+        "reasons": []
+      }
+    ],
+    "human-resources": [
+      {
+        "rank": 1,
+        "title": "Chief People Officer",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Director of Talent Acquisition",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Human Resources Vice President",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Human Resources Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Recruiting Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Human Resources Development Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Benefits Manager",
+        "salaryMin": 1172,
+        "salaryMax": 1172,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Labor Relations Director",
+        "salaryMin": 1116,
+        "salaryMax": 1116,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Human Resources Consultant",
+        "salaryMin": 1086,
+        "salaryMax": 1086,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Training Executive",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      }
+    ],
+    "import-export": [
+      {
+        "rank": 1,
+        "title": "Import and Export Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Exports Sales Manager",
+        "salaryMin": 1384,
+        "salaryMax": 1384,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Export Logistics Manager",
+        "salaryMin": 1239,
+        "salaryMax": 1239,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Import and Export Consultant",
+        "salaryMin": 1116,
+        "salaryMax": 1116,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Importation Supervisor",
+        "salaryMin": 939,
+        "salaryMax": 939,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Export Logistics Specialist",
+        "salaryMin": 832,
+        "salaryMax": 832,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Export Supervisor",
+        "salaryMin": 805,
+        "salaryMax": 805,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Logistics Analyst",
+        "salaryMin": 745,
+        "salaryMax": 745,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Logistics Administrator",
+        "salaryMin": 711,
+        "salaryMax": 711,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Global Forwarding Agent",
+        "salaryMin": 644,
+        "salaryMax": 644,
+        "reasons": []
+      }
+    ],
+    "insurance": [
+      {
+        "rank": 1,
+        "title": "Risk Management Director",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Risk Modeling Manager",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Insurance Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Insurance Sales Director",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Policy Change Director",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Auditing Insurance Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Loss Prevention Manager",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Claims Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Actuary",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Insurance Program Manager",
+        "salaryMin": 1183,
+        "salaryMax": 1183,
+        "reasons": []
+      }
+    ],
+    "information-technology": [
+      {
+        "rank": 1,
+        "title": "Chief Information Officer",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Online Banking Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Information Technology Project Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Enterprise Infrastructure Manager",
+        "salaryMin": 1306,
+        "salaryMax": 1306,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Director of Application Development",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Chief Information Security Officer",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Web Security Manager",
+        "salaryMin": 1239,
+        "salaryMax": 1239,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Business Intelligence Consultant",
+        "salaryMin": 1217,
+        "salaryMax": 1217,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Technical Project Manager",
+        "salaryMin": 1194,
+        "salaryMax": 1194,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Information Technology Sales Manager",
+        "salaryMin": 1183,
+        "salaryMax": 1183,
+        "reasons": []
+      }
+    ],
+    "law-legal": [
+      {
+        "rank": 1,
+        "title": "Supreme Court Judge",
+        "salaryMin": 2679,
+        "salaryMax": 2679,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Administrative Law Judge",
+        "salaryMin": 2411,
+        "salaryMax": 2411,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Crown Prosecution Service Lawyer",
+        "salaryMin": 2277,
+        "salaryMax": 2277,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "General Counsel",
+        "salaryMin": 2143,
+        "salaryMax": 2143,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Litigation Attorney",
+        "salaryMin": 2009,
+        "salaryMax": 2009,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Legal Services Director",
+        "salaryMin": 1942,
+        "salaryMax": 1942,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Judge Advocate",
+        "salaryMin": 1875,
+        "salaryMax": 1875,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Attorney",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Legal Executive",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Corporate Counsel",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      }
+    ],
+    "marketing": [
+      {
+        "rank": 1,
+        "title": "Brand Director",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Chief Marketing Officer",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Brand Manager",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Marketing Manager",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Chief Product Officer",
+        "salaryMin": 1451,
+        "salaryMax": 1451,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Search Marketing Strategist",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Market Development Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Product Manager",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Digital Marketing Manager",
+        "salaryMin": 1228,
+        "salaryMax": 1228,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Trade Marketing Executive",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      }
+    ],
+    "pharmaceutical-biotech": [
+      {
+        "rank": 1,
+        "title": "Pharmaceutical Manufacturing Lead",
+        "salaryMin": 2143,
+        "salaryMax": 2143,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Pharmaceutical Manager",
+        "salaryMin": 2009,
+        "salaryMax": 2009,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Molecular and Cellular Biologist",
+        "salaryMin": 1909,
+        "salaryMax": 1909,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Medical Affairs Director",
+        "salaryMin": 1808,
+        "salaryMax": 1808,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Pharmaceutical Supply Chain Manager",
+        "salaryMin": 1797,
+        "salaryMax": 1797,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Bioinformatics Scientist",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Pharmaceutical Research Scientist",
+        "salaryMin": 1719,
+        "salaryMax": 1719,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Pharmaceutical Sales Manager",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Clinical Research Manager",
+        "salaryMin": 1652,
+        "salaryMax": 1652,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Pharmacy Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      }
+    ],
+    "public-relations": [
+      {
+        "rank": 1,
+        "title": "Head of Public Relations",
+        "salaryMin": 1507,
+        "salaryMax": 1507,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Public Relations Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Director of Communications",
+        "salaryMin": 1284,
+        "salaryMax": 1284,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Head of Communications",
+        "salaryMin": 1250,
+        "salaryMax": 1250,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Marketing Communications Executive",
+        "salaryMin": 1217,
+        "salaryMax": 1217,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Public Relations Executive",
+        "salaryMin": 1183,
+        "salaryMax": 1183,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Media Relations Specialist",
+        "salaryMin": 1113,
+        "salaryMax": 1113,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Communications Project Manager",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Investor Relations Officer",
+        "salaryMin": 939,
+        "salaryMax": 939,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Government Relations Officer",
+        "salaryMin": 838,
+        "salaryMax": 838,
+        "reasons": []
+      }
+    ],
+    "procurement": [
+      {
+        "rank": 1,
+        "title": "Supply Chain Director",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Procurement Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Distribution Manager",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Warehouse Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Vendor Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Wholesale Buyer",
+        "salaryMin": 1206,
+        "salaryMax": 1206,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Supply Chain Analyst",
+        "salaryMin": 1139,
+        "salaryMax": 1139,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Purchasing Supervisor",
+        "salaryMin": 1073,
+        "salaryMax": 1073,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Inventory Control Manager",
+        "salaryMin": 1046,
+        "salaryMax": 1046,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Demand Planning Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      }
+    ],
+    "quality-control": [
+      {
+        "rank": 1,
+        "title": "Quality Director",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Quality Control Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Quality Assurance Executive",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Six Sigma Black Belt",
+        "salaryMin": 1161,
+        "salaryMax": 1161,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Product Quality Leader",
+        "salaryMin": 1059,
+        "salaryMax": 1059,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Approval Team Manager",
+        "salaryMin": 1050,
+        "salaryMax": 1050,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Quality Assurance Supervisor",
+        "salaryMin": 1017,
+        "salaryMax": 1017,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Quality Trainer",
+        "salaryMin": 995,
+        "salaryMax": 995,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Assistant Quality Manager",
+        "salaryMin": 966,
+        "salaryMax": 966,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Quality Control Analyst",
+        "salaryMin": 919,
+        "salaryMax": 919,
+        "reasons": []
+      }
+    ],
+    "real-estate": [
+      {
+        "rank": 1,
+        "title": "Portfolio Manager",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Director of Real Estate",
+        "salaryMin": 1674,
+        "salaryMax": 1674,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Shopping Center Manager",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Town Planner",
+        "salaryMin": 1574,
+        "salaryMax": 1574,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Property Operations Manager",
+        "salaryMin": 1563,
+        "salaryMax": 1563,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Real Estate General Manager",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Commercial Leasing Manager",
+        "salaryMin": 1518,
+        "salaryMax": 1518,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Community Development Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Real Estate Project Manager",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Property Manager",
+        "salaryMin": 1116,
+        "salaryMax": 1116,
+        "reasons": []
+      }
+    ],
+    "sales": [
+      {
+        "rank": 1,
+        "title": "Wholesale Manager",
+        "salaryMin": 1942,
+        "salaryMax": 1942,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "National Sales Manager",
+        "salaryMin": 1875,
+        "salaryMax": 1875,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Sales Director",
+        "salaryMin": 1741,
+        "salaryMax": 1741,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Sales Executive",
+        "salaryMin": 1607,
+        "salaryMax": 1607,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Sales Manager",
+        "salaryMin": 1540,
+        "salaryMax": 1540,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "National Account Manager",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Head of Direct Sales",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Head of Retail",
+        "salaryMin": 1317,
+        "salaryMax": 1317,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Corporate Sales Manager",
+        "salaryMin": 1272,
+        "salaryMax": 1272,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Relationship Manager",
+        "salaryMin": 1239,
+        "salaryMax": 1239,
+        "reasons": []
+      }
+    ],
+    "telecommunications": [
+      {
+        "rank": 1,
+        "title": "Telecommunications Manager",
+        "salaryMin": 1473,
+        "salaryMax": 1473,
+        "reasons": []
+      },
+      {
+        "rank": 2,
+        "title": "Sales Director",
+        "salaryMin": 1406,
+        "salaryMax": 1406,
+        "reasons": []
+      },
+      {
+        "rank": 3,
+        "title": "Chief Technology Officer",
+        "salaryMin": 1339,
+        "salaryMax": 1339,
+        "reasons": []
+      },
+      {
+        "rank": 4,
+        "title": "Telecommunication Service Delivery Manager",
+        "salaryMin": 1116,
+        "salaryMax": 1116,
+        "reasons": []
+      },
+      {
+        "rank": 5,
+        "title": "Telecommunication Solution Architect",
+        "salaryMin": 1062,
+        "salaryMax": 1062,
+        "reasons": []
+      },
+      {
+        "rank": 6,
+        "title": "Telecommunication Consultant",
+        "salaryMin": 1035,
+        "salaryMax": 1035,
+        "reasons": []
+      },
+      {
+        "rank": 7,
+        "title": "Telecommunication Project Manager",
+        "salaryMin": 1006,
+        "salaryMax": 1006,
+        "reasons": []
+      },
+      {
+        "rank": 8,
+        "title": "Telecommunications Analyst",
+        "salaryMin": 995,
+        "salaryMax": 995,
+        "reasons": []
+      },
+      {
+        "rank": 9,
+        "title": "Telecommunication Technical Manager",
+        "salaryMin": 983,
+        "salaryMax": 983,
+        "reasons": []
+      },
+      {
+        "rank": 10,
+        "title": "Access Operation Team Leader",
+        "salaryMin": 950,
+        "salaryMax": 950,
+        "reasons": []
+      }
+    ]
+  }
+}

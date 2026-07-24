@@ -1,0 +1,21 @@
+{
+  "name": "Best Paying Jobs in Every Country",
+  "short_name": "BestPayingJobs",
+  "description": "Discover the highest paying jobs in every country. Compare salaries across 30+ career categories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

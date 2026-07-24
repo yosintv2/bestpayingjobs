@@ -1,0 +1,41 @@
+{
+  "site": {
+    "name": "BestPayingJobs.net",
+    "url": "https://www.bestpayingjobs.net",
+    "year": 2026,
+    "description": "Compare salaries across 195 countries and 31 career categories. Make data-driven career decisions with real compensation insights.",
+    "locale": "en-US"
+  },
+  "seo": {
+    "titleSuffix": " | BestPayingJobs.net",
+    "ogImageWidth": 1200,
+    "ogImageHeight": 750
+  },
+  "brand": {
+    "primaryColor": "#059669",
+    "primaryHover": "#047857",
+    "lightBg": "#ecfdf5"
+  },
+  "features": {
+    "enablePartTimeJobs": true,
+    "enableCalculators": true,
+    "enableBlog": true,
+    "enableSalaryLetters": true,
+    "enableCompare": true
+  },
+  "navigation": {
+    "showInHeader": ["categories", "globalRanking", "partTimeJobs", "calculators", "compare", "salaryLetters", "blog"],
+    "partTimeJobsLabel": "Part-Time Jobs"
+  },
+  "homepage": {
+    "heroTitle": "Best Paying Jobs in {country}",
+    "heroSubtitle": "Compare salaries across {countries} countries and {categories} career categories.",
+    "statsBar": true,
+    "showHowItWorks": false,
+    "showGlobalJobs": true,
+    "showCategories": true,
+    "showAllCountries": true,
+    "showBlog": true,
+    "showCta": true
+  }
+}

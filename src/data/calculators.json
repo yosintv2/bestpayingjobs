@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "salary-to-hourly",
+    "title": "Salary to Hourly Wage Calculator",
+    "subtitle": "Convert Annual / Monthly Salary to Hourly Rate",
+    "description": "Use our free Salary to Hourly Wage Calculator to instantly convert your annual or monthly salary into an hourly rate. Whether you're negotiating a contract, comparing job offers, or planning freelance work, knowing your true hourly wage helps you make informed career decisions. Enter your salary and work hours to see your hourly, daily, weekly, and monthly breakdown.",
+    "ogTitle": "Salary to Hourly Wage Calculator",
+    "icon": "M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "take-home-salary",
+    "title": "Take-Home Salary Calculator",
+    "subtitle": "Calculate Your Net Pay After Deductions",
+    "description": "Our Take-Home Salary Calculator estimates your net pay after common deductions including federal and state taxes, Social Security, Medicare, and retirement contributions. Enter your gross salary and location to see exactly what lands in your bank account each month. Use this to budget accurately and negotiate your next raise or job offer with confidence.",
+    "ogTitle": "Take-Home Salary Calculator",
+    "icon": "M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z"
+  },
+  {
+    "slug": "salary-after-tax",
+    "title": "Salary After Tax Calculator",
+    "subtitle": "See Your Income After Federal & State Taxes",
+    "description": "Our Salary After Tax Calculator shows you exactly how much of your hard-earned income you keep after taxes. Factor in federal income tax brackets, state tax rates, FICA (Social Security & Medicare), and other deductions. Compare post-tax salaries across different states to find the most tax-friendly location for your career.",
+    "ogTitle": "Salary After Tax Calculator",
+    "icon": "M9 14l6-6m-5.5.5h.01m4.99 5h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "monthly-to-annual",
+    "title": "Monthly Salary to Annual Salary Calculator",
+    "subtitle": "Convert Monthly Pay to Yearly Income",
+    "description": "Quickly convert your monthly salary to an annual figure using our Monthly to Annual Salary Calculator. Simply enter your monthly gross income and see your projected yearly earnings. Useful for comparing salaried vs hourly positions, understanding your total compensation package, and planning long-term financial goals.",
+    "ogTitle": "Monthly to Annual Salary Calculator",
+    "icon": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+  },
+  {
+    "slug": "annual-to-monthly",
+    "title": "Annual Salary to Monthly Salary Calculator",
+    "subtitle": "Break Down Yearly Pay into Monthly Figures",
+    "description": "Our Annual Salary to Monthly Salary Calculator breaks down your yearly income into manageable monthly, bi-weekly, and weekly figures. Essential for budgeting, understanding your paycheck structure, and comparing job offers with different payment frequencies. Enter your annual salary and see the breakdown instantly.",
+    "ogTitle": "Annual to Monthly Salary Calculator",
+    "icon": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+  },
+  {
+    "slug": "salary-increase",
+    "title": "Salary Increase / Raise Calculator",
+    "subtitle": "Calculate Your Raise Amount & New Salary",
+    "description": "Use our Salary Increase Calculator to determine the impact of a raise or promotion. Enter your current salary and either the percentage increase or the dollar amount, and we'll calculate your new salary, the dollar increase, and the percentage change. Plan your financial future and negotiate with confidence.",
+    "ogTitle": "Salary Increase Calculator",
+    "icon": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+  },
+  {
+    "slug": "overtime-pay",
+    "title": "Overtime Pay Calculator",
+    "subtitle": "Calculate Your Overtime Earnings",
+    "description": "Our Overtime Pay Calculator helps you estimate your earnings when working beyond standard hours. Enter your regular hourly rate, overtime rate multiplier (typically 1.5x for time-and-a-half), and overtime hours to see your total pay. Perfect for understanding potential earnings from extra shifts or planning your work schedule.",
+    "ogTitle": "Overtime Pay Calculator",
+    "icon": "M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "bonus",
+    "title": "Bonus Calculator",
+    "subtitle": "Estimate Your Bonus Pay After Tax",
+    "description": "Our Bonus Calculator estimates your take-home bonus after federal and state withholding. Bonuses are typically taxed at a flat supplemental rate (22% federal). Enter your bonus amount, location, and regular salary to see what you'll actually take home. Plan your spending and savings with accurate numbers.",
+    "ogTitle": "Bonus Calculator",
+    "icon": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "commission",
+    "title": "Commission Calculator",
+    "subtitle": "Calculate Your Commission Earnings",
+    "description": "Our Commission Calculator helps sales professionals and commission-based employees estimate their total earnings. Enter your base salary, commission rate, and sales volume to see your projected total compensation. Tiered commission structures supported. Make informed decisions about your sales career and track your earning potential.",
+    "ogTitle": "Commission Calculator",
+    "icon": "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"
+  },
+  {
+    "slug": "rent-affordability",
+    "title": "How Much Rent Can I Afford Based on Salary?",
+    "subtitle": "Rent Affordability Calculator by Income",
+    "description": "Wondering how much rent you can afford? Our Rent Affordability Calculator uses the standard 30% rule — spending no more than 30% of your gross monthly income on housing. Enter your annual salary, monthly debts, and location to find your ideal rent range. Make smarter housing decisions and avoid being house-poor.",
+    "ogTitle": "Rent Affordability Calculator",
+    "icon": "M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
+  },
+  {
+    "slug": "house-affordability",
+    "title": "How Much House Can I Afford Based on Salary?",
+    "subtitle": "Home Affordability Calculator",
+    "description": "Our Home Affordability Calculator estimates how much house you can afford based on your income, down payment, and current interest rates. Using the 28/36 rule (front-end and back-end ratios), we calculate your maximum home price, monthly mortgage payment, and required income. Plan your home purchase with confidence.",
+    "ogTitle": "Home Affordability Calculator",
+    "icon": "M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
+  },
+  {
+    "slug": "car-affordability",
+    "title": "How Much Car Can I Afford Based on Salary?",
+    "subtitle": "Car Affordability Calculator",
+    "description": "Our Car Affordability Calculator helps you determine a realistic car budget based on your income and expenses. Financial experts recommend keeping total car costs (payment, insurance, fuel, maintenance) under 10-15% of your monthly take-home pay. Enter your salary and current obligations to find your ideal car price range.",
+    "ogTitle": "Car Affordability Calculator",
+    "icon": "M13 16V6a1 1 0 00-1-1H4a1 1 0 00-1 1v10a1 1 0 001 1h1m8-1a1 1 0 01-1 1H9m4-1V8a1 1 0 011-1h2.586a1 1 0 01.707.293l3.414 3.414a1 1 0 01.293.707V16a1 1 0 01-1 1h-1m-6-1a1 1 0 001 1h1M5 17a2 2 0 104 0m-4 0a2 2 0 114 0m6 0a2 2 0 104 0m-4 0a2 2 0 114 0"
+  },
+  {
+    "slug": "salary-vs-cost-of-living",
+    "title": "Salary vs Cost of Living Calculator",
+    "subtitle": "Compare Salaries Across Different Cities",
+    "description": "Our Salary vs Cost of Living Calculator lets you compare how far your salary goes in different cities and countries. Enter your current salary and location, then select a target city to see the equivalent salary needed to maintain the same standard of living. Essential for relocation decisions and remote work planning.",
+    "ogTitle": "Salary vs Cost of Living Calculator",
+    "icon": "M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "salary-inflation",
+    "title": "Salary Inflation Calculator",
+    "subtitle": "Adjust Your Salary for Inflation Over Time",
+    "description": "Our Salary Inflation Calculator shows how inflation erodes your purchasing power over time. Enter your current salary, the number of years, and the expected inflation rate to see what your salary needs to be to maintain the same standard of living. Essential for understanding whether your raises are keeping up with inflation.",
+    "ogTitle": "Salary Inflation Calculator",
+    "icon": "M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"
+  },
+  {
+    "slug": "salary-comparison",
+    "title": "Salary Comparison Calculator",
+    "subtitle": "Compare Two Job Offers Side by Side",
+    "description": "Our Salary Comparison Calculator helps you compare two job offers or salaries side by side. Factor in base salary, bonus, benefits value, commute costs, and cost of living differences. Get a comprehensive comparison that reveals the true value of each offer. Make informed career decisions with data, not gut feeling.",
+    "ogTitle": "Salary Comparison Calculator",
+    "icon": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+  },
+  {
+    "slug": "salary-percentile",
+    "title": "Salary Percentile Calculator",
+    "subtitle": "See Where Your Salary Ranks Among Peers",
+    "description": "Our Salary Percentile Calculator shows where your income falls compared to others in your profession and location. Enter your salary, job title, and location to see your percentile ranking (e.g., top 10%, median, bottom 25%). Use this data to negotiate raises, evaluate job offers, and benchmark your career progress.",
+    "ogTitle": "Salary Percentile Calculator",
+    "icon": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+  },
+  {
+    "slug": "salary-savings",
+    "title": "Salary Savings Calculator",
+    "subtitle": "How Much Can You Save Based on Your Salary?",
+    "description": "Our Salary Savings Calculator projects how much you can save over time based on your income and savings rate. Enter your annual salary, current savings, monthly expenses, and target savings rate to see your projected savings growth. Visualize your path to financial goals and see the impact of increasing your savings rate.",
+    "ogTitle": "Salary Savings Calculator",
+    "icon": "M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  },
+  {
+    "slug": "fire-calculator",
+    "title": "Salary-Based FIRE Calculator",
+    "subtitle": "Calculate Your Financial Independence & Early Retirement Number",
+    "description": "Our FIRE (Financial Independence, Retire Early) Calculator estimates how long until you can retire based on your salary, savings rate, and current investments. Using the 4% rule, we calculate your FIRE number and the years to reach it. Enter your income, expenses, and current savings to see your path to financial independence.",
+    "ogTitle": "FIRE Calculator",
+    "icon": "M13 10V3L4 14h7v7l9-11h-7z"
+  },
+  {
+    "slug": "job-offer-comparison",
+    "title": "Job Offer Comparison Calculator",
+    "subtitle": "Compare Total Compensation Packages",
+    "description": "Our Job Offer Comparison Calculator helps you evaluate multiple job offers by comparing total compensation. Factor in base salary, bonuses, equity, benefits (healthcare, 401k match, PTO), commute costs, and cost of living. See which offer truly pays more when all factors are considered. Make your next career move with complete confidence.",
+    "ogTitle": "Job Offer Comparison Calculator",
+    "icon": "M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
+  },
+  {
+    "slug": "freelance-hourly-rate",
+    "title": "Freelance Hourly Rate Calculator",
+    "subtitle": "Convert Your Salary to a Freelance Hourly Rate",
+    "description": "Our Freelance Hourly Rate Calculator helps you determine what hourly rate to charge as a freelancer or contractor based on your desired annual salary. Factor in billable hours, business expenses, taxes, paid time off, and benefits you'd need to cover yourself. Set your freelance rates with confidence and ensure you're not underselling your skills.",
+    "ogTitle": "Freelance Hourly Rate Calculator",
+    "icon": "M12 6v12m-3-2.818l.879.659c1.171.879 3.07.879 4.242 0 1.172-.879 1.172-2.303 0-3.182C13.536 12.219 12.768 12 12 12c-.725 0-1.45-.22-2.003-.659-1.106-.879-1.106-2.303 0-3.182s2.9-.879 4.006 0l.415.33M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "config": {
+    "baseUsdHourly": 12,
+    "usColIndex": 69.7,
+    "weeklyHours": 20,
+    "maxJobs": 10,
+    "metaTitle": "Part-Time Jobs in {country} for International Students {year}",
+    "metaDescription": "Discover the highest paying part-time jobs in {country} for international students {year}. Top opportunities include {top3}. Compare hourly rates and monthly salaries.",
+    "heading": "Part-Time Jobs in {country} ({year})",
+    "sectionTitle": "Top 10 Highest Paying Part-Time Jobs in {country}",
+    "sectionSubtitle": "For International Students · Hourly rates in {currency} · Updated for {year}",
+    "breadcrumbLabel": "Part-Time Jobs in {country}"
+  },
+  "jobs": [
+    {
+      "rank": 1,
+      "title": "Private Tutor",
+      "description": "Private tutoring is the highest paying part-time job for international students due to strong demand for English language instruction and academic subject support. Tutors work one-on-one with students in subjects like mathematics, science, English, and test preparation. Advanced students can charge premium rates for specialized subjects like SAT prep, IELTS training, or university entrance exam coaching. The flexible schedule allows students to take on multiple clients and earn significantly more than standard part-time wages.",
+      "multiplier": 2.0
+    },
+    {
+      "rank": 2,
+      "title": "Research Assistant",
+      "description": "Research assistant positions are prestigious academic roles that offer competitive pay and valuable career experience. International students assist professors and research teams with data collection, literature reviews, statistical analysis, and lab experiments. These positions are typically funded through university grants and research programs, offering stable hours within campus environments. Research assistants gain direct mentorship from faculty members, co-authorship opportunities on academic papers, and strong references for graduate school applications.",
+      "multiplier": 1.7
+    },
+    {
+      "rank": 3,
+      "title": "IT Support Technician",
+      "description": "IT support roles pay well because technical skills are in high demand and relatively scarce among the student workforce. International students with strong technology backgrounds can work at university help desks, campus computer labs, or local businesses providing technical support. Responsibilities include troubleshooting hardware and software issues, maintaining computer systems, assisting with network connectivity, and supporting audio-visual equipment in classrooms. These positions build highly marketable technical skills for future careers in information technology.",
+      "multiplier": 1.7
+    },
+    {
+      "rank": 4,
+      "title": "Language Translator",
+      "description": "Multilingual international students can earn excellent hourly rates by offering translation and interpretation services. Businesses, hospitals, government agencies, and legal firms frequently require document translation and real-time interpretation services. This role leverages the student's native language skills as a valuable professional asset. Translation work often allows for remote or freelance arrangements, providing maximum flexibility around class schedules while building a professional portfolio of multilingual communication skills.",
+      "multiplier": 1.6
+    },
+    {
+      "rank": 5,
+      "title": "Administrative Assistant",
+      "description": "Administrative assistant positions in university departments and local companies offer reliable, consistent part-time work with standard business hours. Tasks include managing schedules, processing correspondence, data entry, answering phones, filing documents, and assisting with event coordination. These roles provide international students with valuable workplace experience, professional networking opportunities, and a steady predictable income that helps with financial planning throughout the academic year.",
+      "multiplier": 1.4
+    },
+    {
+      "rank": 6,
+      "title": "Freelance Writer",
+      "description": "Freelance writing offers international students the flexibility to earn money from anywhere while building a professional portfolio. Opportunities include content writing for websites, blog posts, copywriting for marketing agencies, academic editing, and technical writing. Students with strong English writing skills can find clients on freelance platforms or through local businesses needing content creation. The remote nature of this work means no commuting costs and the ability to work around class schedules.",
+      "multiplier": 1.4
+    },
+    {
+      "rank": 7,
+      "title": "Server / Waiter",
+      "description": "Working as a server or waiter in restaurants, cafes, and bars is one of the most popular part-time jobs for international students. In many countries, tips can double or triple the base hourly wage, making food service one of the highest earning student job options. Evening and weekend shifts fit naturally around daytime class schedules. Students also gain valuable customer service skills, learn to work in fast-paced environments, and often receive meal benefits during shifts.",
+      "multiplier": 1.2
+    },
+    {
+      "rank": 8,
+      "title": "Retail Sales Associate",
+      "description": "Retail positions in clothing stores, electronics shops, supermarkets, and department stores offer consistent part-time hours with regular pay. International students assist customers, stock merchandise, operate cash registers, and maintain store displays. Many retail employers actively recruit student workers for evening and weekend shifts. The role builds strong communication skills, customer service experience, and product knowledge that can lead to supervisory positions or careers in retail management.",
+      "multiplier": 1.1
+    },
+    {
+      "rank": 9,
+      "title": "Barista",
+      "description": "Barista positions in coffee shops and cafes are ideal for international students seeking friendly, social work environments. Preparing and serving coffee beverages requires specialized training that employers typically provide on the job. Baristas develop customer service skills, learn inventory management, and work efficiently during peak hours. Tips from regular customers can meaningfully supplement the base hourly wage, and the early morning or afternoon shifts accommodate various class schedules.",
+      "multiplier": 1.1
+    },
+    {
+      "rank": 10,
+      "title": "Delivery Driver",
+      "description": "Delivery driving through food delivery platforms, local restaurants, or courier services offers the most flexible schedule of any part-time job. International students using bicycles, scooters, or cars can choose when and how long to work each day. Earnings are directly tied to delivery volume, with peak meal times offering the highest earning potential. The role provides physical activity, familiarity with the local area, and complete control over work hours — ideal for students with unpredictable class schedules.",
+      "multiplier": 1.0
+    }
+  ]
+}

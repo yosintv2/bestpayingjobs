@@ -17,6 +17,7 @@ import ShareButtons from "@/components/ShareButtons";
 import FlagImage from "@/components/FlagImage";
 import ChartSection from "@/components/ChartSection";
 import CategoryAccordion from "@/components/CategoryAccordion";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import { seededShuffle } from "@/lib/shuffle";
 import posts from "@/data/blog-posts.json";
 import { costOfLivingKeywords } from "@/lib/keywords";
@@ -160,6 +161,7 @@ export default async function CostOfLivingPage({ params }: Props) {
           ),
         }}
       />
+      <TrackingRedirect />
       <Header />
 
       <main className="flex-1 mx-auto w-full max-w-5xl px-4 py-10">

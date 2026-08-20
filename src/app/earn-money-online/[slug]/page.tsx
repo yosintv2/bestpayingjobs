@@ -14,6 +14,7 @@ import {
 import { seededShuffle } from "@/lib/shuffle";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import ShareButtons from "@/components/ShareButtons";
 import FlagImage from "@/components/FlagImage";
 import posts from "@/data/blog-posts.json";
@@ -126,6 +127,7 @@ export default async function EarnMoneyOnlinePage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
 
+      <TrackingRedirect />
       <Header />
 
       <section className="bg-gradient-to-br from-emerald-50 via-white to-emerald-50 py-12">

@@ -11,6 +11,7 @@ import { getPartTimeJobs, getConfig } from "@/lib/part-time";
 import { seededShuffle } from "@/lib/shuffle";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import PartTimeJobs from "@/components/PartTimeJobs";
 import ShareButtons from "@/components/ShareButtons";
 import { getCitiesByCountry } from "@/lib/city";
@@ -148,6 +149,7 @@ export default async function PartTimeJobsPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
       />
 
+      <TrackingRedirect />
       <Header />
 
       <section className="bg-gradient-to-br from-emerald-50 via-white to-emerald-50 py-12">

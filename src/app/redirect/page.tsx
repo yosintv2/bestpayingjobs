@@ -13,7 +13,7 @@ export default function RedirectPage() {
     var s=p.get("src");
     var slugs=${JSON.stringify(slugs)};
     var slug=slugs[Math.floor(Math.random()*slugs.length)];
-    var routes=["average-salary-","best-paying-jobs-in-","cost-of-living-"];
+    var routes=["average-salary-","best-paying-jobs-in-","cost-of-living-","take-home-pay-","part-time-jobs-in-","earn-money-online-"];
     var prefix=routes[Math.floor(Math.random()*routes.length)];
     var dest="/"+prefix+slug+"/"+(s?"?src="+s:"");
     window.location.replace(dest);

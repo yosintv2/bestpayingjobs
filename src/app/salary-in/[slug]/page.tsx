@@ -5,6 +5,7 @@ import { getCountries, getCountryJobs, getCountryByCode, getCategories, getCurre
 import { getCityBySlug, cityMultiplier } from "@/lib/city";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import ShareButtons from "@/components/ShareButtons";
 import { cityKeywords } from "@/lib/keywords";
 
@@ -94,6 +95,7 @@ export default async function CityPage({ params }: Props) {
   return (
     <div className="flex flex-col min-h-screen">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(imageSchema) }} />
+      <TrackingRedirect />
       <Header />
       <main className="flex-1 mx-auto w-full max-w-5xl px-4 py-10">
         <div className="mb-2">

@@ -12,6 +12,7 @@ import {
 import CategoryAccordion from "@/components/CategoryAccordion";
 import ChartSection from "@/components/ChartSection";
 import FlagImage from "@/components/FlagImage";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ShareButtons from "@/components/ShareButtons";
@@ -219,6 +220,7 @@ export default async function CountryPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
         />
       ))}
+      <TrackingRedirect />
       <Header />
 
       <section className="relative isolate overflow-hidden bg-ink">

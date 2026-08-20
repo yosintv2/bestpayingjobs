@@ -1,0 +1,50 @@
+# Tracking Redirect System — How It Works
+
+Added for affiliate/traffic tracking: appending `?src=<id or URL>` to country pages redirects the visitor to a configured destination, and the tracking URLs are kept out of Google's index.
+
+## Quick Links
+
+- `https://www.bestpayingjobs.net/redirect/?src=<customId>` — single hop page, redirects through a RANDOM country page
+- `https://www.bestpayingjobs.net/average-salary-{country}/?src=<customId>` — redirects directly to the configured destination
+- `https://www.bestpayingjobs.net/best-paying-jobs-in-{country}/?src=<customId>` — redirects directly
+
+The `src` value can be either:
+1. A **customId** defined in `src/data/tracking-redirects.json` (mapped to a destination link)
+2. A **full URL** (e.g. `https://...` or `/some/path`) — redirects directly to that URL
+3. **Unknown/unset** — falls back to the `"default"` link in the config
+
+## Behavior
+
+- `/redirect/?src=` ALWAYS hops through a random country page first
+  (`average-salary-{country}` OR `best-paying-jobs-in-{country}`, random country each visit)
+  → spreads traffic across all 195 country pages so they get crawled/indexed
+  → then the country page's TrackingRedirect does the final redirect to the destination
+- Every country page (`average-salary/[slug]` and `best-paying-jobs-in/[slug]`) runs the same
+  TrackingRedirect inline script — one template covers all 195 countries, no per-country config
+- `noindex, nofollow` meta tag is injected BEFORE redirecting so tracking URLs are not indexed
+- Redirect uses `window.location.replace()` — no back-button loop, no history entry
+- The `{src}` placeholder in a destination URL is replaced with the actual `src` value (plain, not URL-encoded)
+
+## Files
+
+| File | Purpose |
+|------|---------|
+| `src/data/tracking-redirects.json` | **Edit this** — customId → destination link mapping, plus `"default"` fallback |
+| `src/components/TrackingRedirect.tsx` | Inline client-side redirect script; injected `<script>` on country pages |
+| `src/app/redirect/page.tsx` | `/redirect/` hop page — picks a random country + route, forwards `?src=` |
+| `src/app/average-salary/[slug]/page.tsx` | Renders `<TrackingRedirect />` |
+| `src/app/best-paying-jobs-in/[slug]/page.tsx` | Renders `<TrackingRedirect />` |
+
+## How to Add a New Redirect
+
+1. Open `src/data/tracking-redirects.json`
+2. Add a new key, e.g. `"myPartner": "https://partner.com/landing?ref={src}"`
+3. Use the link: `https://www.bestpayingjobs.net/redirect/?src=myPartner`
+
+No rebuild of the mapping needed beyond the normal build — the JSON is embedded in the static HTML at build time.
+
+## To Extend to Other Country Routes
+
+Add `<TrackingRedirect />` to any other shared `[slug]` page template
+(e.g. `cost-of-living/[slug]`, `take-home-pay/[slug]`) and optionally add its prefix to
+`routes` in `src/app/redirect/page.tsx`.

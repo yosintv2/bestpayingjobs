@@ -7,6 +7,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ShareButtons from "@/components/ShareButtons";
 import { BarChart, DistributionChart, GenderChart } from "@/components/SalaryChart";
+import TrackingRedirect from "@/components/TrackingRedirect";
 import { averageSalaryKeywords } from "@/lib/keywords";
 const siteUrl = "https://www.bestpayingjobs.net";
 
@@ -97,6 +98,7 @@ export default async function AverageSalaryPage({ params }: Props) {
   return (
     <div className="flex flex-col min-h-screen">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
+      <TrackingRedirect />
       <Header />
       <main className="flex-1 mx-auto w-full max-w-5xl px-4 py-10">
         <h1 className="text-3xl font-bold tracking-tight sm:text-4xl text-gray-900 mb-1">

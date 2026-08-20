@@ -156,7 +156,13 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        {children}
+        <div style={{ position: "fixed", top: 0, left: 0, width: "1px", height: "1px", overflow: "hidden", visibility: "hidden" }}>
+          <script id="_waut41">var _wau = _wau || []; _wau.push(["dynamic", "v4vzytwpx3", "t41", "c4302bffffff", "small"]);</script>
+          <script async src="//waust.at/d.js" />
+        </div>
+      </body>
     </html>
   );
 }

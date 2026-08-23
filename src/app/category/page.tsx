@@ -55,7 +55,7 @@ export default function CategoryIndex() {
               return (
                 <Link
                   key={cat.slug}
-                  href={`/category/${cat.slug}`}
+                  href={`/jobs/${cat.slug}`}
                   className="group rounded-xl border border-gray-200 bg-white p-6 hover:border-emerald-200 hover:shadow-lg hover:shadow-emerald-100/50 transition-all duration-200"
                 >
                   <h2 className="text-lg font-bold text-gray-900 group-hover:text-emerald-600 transition-colors mb-2">

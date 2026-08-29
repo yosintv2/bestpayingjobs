@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: resolve(cfg.metaDescription),
     keywords: earnOnlineKeywords({ country: c.name, year: getCurrentYear() }),
     alternates: {
-      canonical: `https://www.bestpayingjobs.net/earn-money-online-${c.slug}`,
+      canonical: `https://www.bestpayingjobs.net/earn-money-online/${c.slug}`,
     },
     openGraph: {
       title: resolve(cfg.metaTitle),
@@ -90,7 +90,7 @@ export default async function EarnMoneyOnlinePage({ params }: Props) {
       .replace(/\{currency\}/g, c.currency);
 
   const siteUrl = "https://www.bestpayingjobs.net";
-  const pageUrl = `${siteUrl}/earn-money-online-${c.slug}`;
+  const pageUrl = `${siteUrl}/earn-money-online/${c.slug}`;
 
   const breadcrumbSchema = {
     "@context": "https://schema.org",
@@ -133,7 +133,7 @@ export default async function EarnMoneyOnlinePage({ params }: Props) {
       <section className="bg-gradient-to-br from-emerald-50 via-white to-emerald-50 py-12">
         <div className="mx-auto max-w-5xl px-4">
           <Link
-            href={`/best-paying-jobs-in-${c.slug}/`}
+            href={`/best-paying-jobs-in/${c.slug}/`}
             className="inline-flex items-center gap-1.5 text-xs text-emerald-600 hover:text-emerald-700 mb-4 transition-colors"
           >
             <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -294,23 +294,23 @@ export default async function EarnMoneyOnlinePage({ params }: Props) {
             Compare full-time salaries, part-time opportunities, cost of living, and take-home pay in {c.name}.
           </p>
           <div className="flex flex-wrap justify-center gap-3">
-            <Link href={`/best-paying-jobs-in-${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-emerald-700 transition-colors">
+            <Link href={`/best-paying-jobs-in/${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-emerald-700 transition-colors">
               Full-Time Jobs
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </Link>
-            <Link href={`/part-time-jobs-in-${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
+            <Link href={`/part-time-jobs-in/${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
               Part-Time Jobs
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </Link>
-            <Link href={`/average-salary-${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
+            <Link href={`/average-salary/${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
               Average Salary
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </Link>
-            <Link href={`/cost-of-living-${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
+            <Link href={`/cost-of-living/${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
               Cost of Living
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </Link>
-            <Link href={`/take-home-pay-${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
+            <Link href={`/take-home-pay/${c.slug}/`} className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors">
               Take-Home Pay
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </Link>
@@ -330,7 +330,7 @@ export default async function EarnMoneyOnlinePage({ params }: Props) {
             ).slice(0, 12).map((oc) => (
               <Link
                 key={oc.code}
-                href={`/earn-money-online-${oc.slug}`}
+                href={`/earn-money-online/${oc.slug}`}
                 className="group flex flex-col items-center gap-1.5 rounded-xl border border-gray-200 bg-white px-3 py-3 hover:border-emerald-200 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
               >
                 <FlagImage slug={oc.slug} name={oc.name} className="w-6 h-6 rounded-sm" />

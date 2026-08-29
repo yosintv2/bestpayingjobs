@@ -52,12 +52,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: `Cost of living in ${c.name} is ${index}% of the US national average in ${year}. See how far your salary goes, compare purchasing power across categories.`,
     keywords: costOfLivingKeywords({ country: c.name, year: getCurrentYear() }),
     alternates: {
-      canonical: `https://www.bestpayingjobs.net/cost-of-living-${c.slug}`,
+      canonical: `https://www.bestpayingjobs.net/cost-of-living/${c.slug}`,
     },
     openGraph: {
       title: `Cost of Living in ${c.name} ${year} | BestPayingJobs.net`,
       description: `COL index for ${c.name} is ${index}%. Compare adjusted salaries and purchasing power for ${year}.`,
-      url: `https://www.bestpayingjobs.net/cost-of-living-${c.slug}`,
+      url: `https://www.bestpayingjobs.net/cost-of-living/${c.slug}`,
       images: [metaImage],
     },
     twitter: {
@@ -106,7 +106,7 @@ export default async function CostOfLivingPage({ params }: Props) {
   const countries = getCountries();
 
   const siteUrl = "https://www.bestpayingjobs.net";
-  const pageUrl = `${siteUrl}/cost-of-living-${c.slug}`;
+  const pageUrl = `${siteUrl}/cost-of-living/${c.slug}`;
   const fxRate = (fxRatesData as Record<string, number>)[data?.currency ?? "USD"] ?? 1;
 
   const top10 = (data?.top10 ?? []).map((j) => ({
@@ -339,7 +339,7 @@ export default async function CostOfLivingPage({ params }: Props) {
             See the full list of highest paying careers and salaries in {c.name}.
           </p>
           <Link
-            href={`/best-paying-jobs-in-${c.slug}`}
+            href={`/best-paying-jobs-in/${c.slug}`}
             className="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-emerald-700 transition-colors"
           >
             Best Paying Jobs in {c.name}
@@ -357,7 +357,7 @@ export default async function CostOfLivingPage({ params }: Props) {
             Estimate your after-tax salary and see how much you keep after deductions in {c.name}.
           </p>
           <Link
-            href={`/take-home-pay-${c.slug}`}
+            href={`/take-home-pay/${c.slug}`}
             className="inline-flex items-center gap-2 rounded-lg border border-emerald-600 bg-white px-5 py-2.5 text-sm font-semibold text-emerald-600 hover:bg-emerald-50 transition-colors"
           >
             Take-Home Pay in {c.name}
@@ -414,7 +414,7 @@ export default async function CostOfLivingPage({ params }: Props) {
             {seededShuffle(countries.filter((x) => x.code !== c.code && x.code in colData), c.code).slice(0, 12).map((oc) => (
               <Link
                 key={oc.code}
-                href={`/best-paying-jobs-in-${oc.slug}`}
+                href={`/best-paying-jobs-in/${oc.slug}`}
                 className="group flex flex-col items-center gap-1.5 rounded-xl border border-gray-200 bg-white px-3 py-3 hover:border-emerald-200 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
               >
                 <FlagImage slug={oc.slug} name={oc.name} className="w-6 h-6 rounded-sm" />

@@ -93,7 +93,7 @@ export default function AverageSalaryIndex() {
             return (
               <Link
                 key={c.code}
-                href={`/average-salary-${c.slug}`}
+                href={`/average-salary/${c.slug}`}
                 className="group bg-white rounded-xl border border-gray-200 p-4 hover:border-emerald-300 hover:shadow-md hover:shadow-emerald-100/50 transition-all"
               >
                 <div className="flex items-center gap-3">

@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       year: d.year,
       currency: country.currency,
     }),
-    alternates: { canonical: `${siteUrl}/average-salary-${country.slug}` },
+    alternates: { canonical: `${siteUrl}/average-salary/${country.slug}` },
     openGraph: {
       title: `Average Salary in ${country.name} ${d.year} | BestPayingJobs.net`,
       description: `The average salary in ${country.name} is ${f(d.averageSalary.annual)} ${country.currency} per year.`,
@@ -64,7 +64,7 @@ export default async function AverageSalaryPage({ params }: Props) {
   const year = getCurrentYear();
   const countries = getCountries();
   const C = country.currency;
-  const pageUrl = `${siteUrl}/average-salary-${country.slug}`;
+  const pageUrl = `${siteUrl}/average-salary/${country.slug}`;
 
   const expLevels = [
     { label: "0–2 Years", value: d.experience["0-2"], desc: "Entry Level" },
@@ -423,7 +423,7 @@ export default async function AverageSalaryPage({ params }: Props) {
           </div>
           <div className="mt-3 text-center">
             <Link
-              href={`/best-paying-jobs-in-${country.slug}`}
+              href={`/best-paying-jobs-in/${country.slug}`}
               className="text-sm text-emerald-600 hover:underline font-medium"
             >
               View all jobs and categories in {country.name} →
@@ -546,13 +546,13 @@ export default async function AverageSalaryPage({ params }: Props) {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             <Link
-              href={`/best-paying-jobs-in-${country.slug}`}
+              href={`/best-paying-jobs-in/${country.slug}`}
               className="inline-flex items-center gap-2 rounded-lg bg-white px-5 py-2.5 text-sm font-semibold text-emerald-700 hover:bg-emerald-50 transition-colors"
             >
               View Top Jobs in {country.name}
             </Link>
             <Link
-              href={`/cost-of-living-${country.slug}`}
+              href={`/cost-of-living/${country.slug}`}
               className="inline-flex items-center gap-2 rounded-lg border border-white/40 px-5 py-2.5 text-sm font-semibold text-white hover:bg-white/10 transition-colors"
             >
               Cost of Living in {country.name}
@@ -591,7 +591,7 @@ export default async function AverageSalaryPage({ params }: Props) {
               <div className="px-5 pb-4 text-sm text-gray-500">
                 The highest paying industries in {country.name} include{" "}
                 {topIndustries.map((i) => i.name).slice(0, 3).join(", ")}.{" "}
-                <Link href={`/best-paying-jobs-in-${country.slug}`} className="text-emerald-600 hover:underline">
+                <Link href={`/best-paying-jobs-in/${country.slug}`} className="text-emerald-600 hover:underline">
                   View all top jobs →
                 </Link>
               </div>
@@ -617,7 +617,7 @@ export default async function AverageSalaryPage({ params }: Props) {
               .map((oc) => (
                 <Link
                   key={oc.code}
-                  href={`/average-salary-${oc.slug}`}
+                  href={`/average-salary/${oc.slug}`}
                   className="group flex flex-col items-center gap-1.5 rounded-xl border border-gray-200 bg-white px-3 py-3 hover:border-emerald-200 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-200"
                 >
                   <span className="text-xs font-medium text-gray-700 text-center leading-tight line-clamp-2 group-hover:text-emerald-600 transition-colors">

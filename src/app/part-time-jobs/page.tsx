@@ -60,7 +60,7 @@ export default function PartTimeJobsIndex() {
           {countries.map((c) => (
             <Link
               key={c.code}
-              href={`/part-time-jobs-in-${c.slug}`}
+              href={`/part-time-jobs-in/${c.slug}`}
               className="group bg-white rounded-xl border border-gray-200 p-4 hover:border-emerald-300 hover:shadow-md hover:shadow-emerald-100/50 transition-all"
             >
               <div className="flex items-center gap-3">

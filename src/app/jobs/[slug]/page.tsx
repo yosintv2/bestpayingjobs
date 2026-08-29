@@ -195,7 +195,7 @@ export default async function JobsByCategoryPage({ params }: Props) {
               return (
                 <Link
                   key={country.code}
-                  href={`/best-paying-jobs-in-${country.slug}/#${slug}`}
+                  href={`/best-paying-jobs-in/${country.slug}/#${slug}`}
                   className="group rounded-xl border border-gray-200 bg-white p-5 hover:border-emerald-200 hover:shadow-lg transition-all duration-200"
                 >
                   <div className="flex items-center gap-3 mb-3">
@@ -231,7 +231,7 @@ export default async function JobsByCategoryPage({ params }: Props) {
               .map(({ country }) => (
                 <Link
                   key={country.code}
-                  href={`/best-paying-jobs-in-${country.slug}/#${slug}`}
+                  href={`/best-paying-jobs-in/${country.slug}/#${slug}`}
                   className="flex items-center gap-2 px-4 py-3 rounded-lg border border-gray-200 bg-white hover:border-emerald-200 hover:bg-emerald-50/30 transition-all text-sm"
                 >
                   <FlagImage slug={country.slug} name={country.name} className="w-5 h-5 rounded-sm shrink-0" />

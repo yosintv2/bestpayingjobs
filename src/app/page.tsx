@@ -271,7 +271,7 @@ export default function Home() {
               {topCountries.map((c) => (
                 <Link
                   key={c.code}
-                  href={`/best-paying-jobs-in-${c.slug}/`}
+                  href={`/best-paying-jobs-in/${c.slug}/`}
                   className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full border border-chalk/12 hover:border-jade/50 hover:text-chalk transition-colors"
                 >
                   <FlagImage slug={c.slug} name={c.name} className="w-3.5 h-3.5 ring-1 ring-chalk/25" />
@@ -439,7 +439,7 @@ export default function Home() {
               return (
                 <Link
                   key={c.code}
-                  href={`/best-paying-jobs-in-${c.slug}/`}
+                  href={`/best-paying-jobs-in/${c.slug}/`}
                   className="card card-lift group flex items-center gap-3 px-3 py-3"
                 >
                   <FlagImage

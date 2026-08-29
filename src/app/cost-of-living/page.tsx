@@ -96,7 +96,7 @@ export default function CostOfLivingIndex() {
             return (
               <Link
                 key={c.code}
-                href={`/cost-of-living-${c.slug}`}
+                href={`/cost-of-living/${c.slug}`}
                 className="group bg-white rounded-xl border border-gray-200 p-4 hover:border-emerald-300 hover:shadow-md hover:shadow-emerald-100/50 transition-all"
               >
                 <div className="flex items-center gap-3">

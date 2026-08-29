@@ -221,7 +221,7 @@ export default async function CityPage({ params }: Props) {
             View complete salary data for all categories and jobs across {city.countryName}.
           </p>
           <Link
-            href={`/best-paying-jobs-in-${city.countrySlug}`}
+            href={`/best-paying-jobs-in/${city.countrySlug}`}
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-emerald-600 text-white font-semibold text-sm hover:bg-emerald-700 transition-all shadow-lg shadow-emerald-200"
           >
             View All Jobs in {city.countryName}

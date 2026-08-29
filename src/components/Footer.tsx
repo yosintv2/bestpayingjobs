@@ -81,7 +81,7 @@ export default function Footer() {
                 {topCountries.map((c) => (
                   <Link
                     key={c.code}
-                    href={`/best-paying-jobs-in-${c.slug}/`}
+                    href={`/best-paying-jobs-in/${c.slug}/`}
                     title={`Best paying jobs in ${c.name}`}
                     className="inline-flex items-center gap-1.5 pl-1.5 pr-2.5 py-1 rounded-full border border-chalk/12 text-xs text-chalk/70 hover:border-jade/50 hover:text-chalk transition-colors"
                   >

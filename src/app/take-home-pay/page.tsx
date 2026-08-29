@@ -100,7 +100,7 @@ export default function TakeHomePayIndex() {
             return (
               <Link
                 key={c.code}
-                href={`/take-home-pay-${c.slug}`}
+                href={`/take-home-pay/${c.slug}`}
                 className="group bg-white rounded-xl border border-gray-200 p-4 hover:border-emerald-300 hover:shadow-md hover:shadow-emerald-100/50 transition-all"
               >
                 <div className="flex items-center gap-3">

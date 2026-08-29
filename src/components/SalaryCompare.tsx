@@ -295,7 +295,7 @@ export default function SalaryCompare({ payload }: { payload: ComparePayload }) 
             <div className="flex items-center gap-3">
               <img src={flagUrl(c.s)} alt="" className="w-9 h-9 rounded-full object-cover ring-1 ring-gray-200" />
               <Link
-                href={`/best-paying-jobs-in-${c.s}/`}
+                href={`/best-paying-jobs-in/${c.s}/`}
                 className="font-display text-lg font-bold text-gray-900 hover:text-emerald-600 transition-colors"
               >
                 {c.n}
@@ -384,13 +384,13 @@ export default function SalaryCompare({ payload }: { payload: ComparePayload }) 
       </section>
 
       <div className="mt-6 flex flex-wrap gap-2">
-        <Link href={`/cost-of-living-${a.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
+        <Link href={`/cost-of-living/${a.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
           Cost of living in {a.n}
         </Link>
-        <Link href={`/cost-of-living-${b.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
+        <Link href={`/cost-of-living/${b.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
           Cost of living in {b.n}
         </Link>
-        <Link href={`/take-home-pay-${a.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
+        <Link href={`/take-home-pay/${a.s}/`} className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
           Take-home pay in {a.n}
         </Link>
         <Link href="/global-ranking/" className="text-xs bg-gray-100 hover:bg-emerald-100 hover:text-emerald-700 px-3 py-1.5 rounded-full transition-colors">
